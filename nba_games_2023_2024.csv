@@ -1,0 +1,1274 @@
+Date,Visitor,PTS_Visitor,Home,PTS_Home,Box_Score,OT,Winner
+2023-10-24,Los Angeles Lakers,107,Denver Nuggets,119,/boxscores/202310240DEN.html,,Denver Nuggets
+2023-10-24,Phoenix Suns,108,Golden State Warriors,104,/boxscores/202310240GSW.html,,Phoenix Suns
+2023-10-25,Houston Rockets,86,Orlando Magic,116,/boxscores/202310250ORL.html,,Orlando Magic
+2023-10-25,Boston Celtics,108,New York Knicks,104,/boxscores/202310250NYK.html,,Boston Celtics
+2023-10-25,Washington Wizards,120,Indiana Pacers,143,/boxscores/202310250IND.html,,Indiana Pacers
+2023-10-25,Atlanta Hawks,110,Charlotte Hornets,116,/boxscores/202310250CHO.html,,Charlotte Hornets
+2023-10-25,Detroit Pistons,102,Miami Heat,103,/boxscores/202310250MIA.html,,Miami Heat
+2023-10-25,Minnesota Timberwolves,94,Toronto Raptors,97,/boxscores/202310250TOR.html,,Toronto Raptors
+2023-10-25,Cleveland Cavaliers,114,Brooklyn Nets,113,/boxscores/202310250BRK.html,,Cleveland Cavaliers
+2023-10-25,New Orleans Pelicans,111,Memphis Grizzlies,104,/boxscores/202310250MEM.html,,New Orleans Pelicans
+2023-10-25,Oklahoma City Thunder,124,Chicago Bulls,104,/boxscores/202310250CHI.html,,Oklahoma City Thunder
+2023-10-25,Sacramento Kings,130,Utah Jazz,114,/boxscores/202310250UTA.html,,Sacramento Kings
+2023-10-25,Dallas Mavericks,126,San Antonio Spurs,119,/boxscores/202310250SAS.html,,Dallas Mavericks
+2023-10-25,Portland Trail Blazers,111,Los Angeles Clippers,123,/boxscores/202310250LAC.html,,Los Angeles Clippers
+2023-10-26,Philadelphia 76ers,117,Milwaukee Bucks,118,/boxscores/202310260MIL.html,,Milwaukee Bucks
+2023-10-26,Phoenix Suns,95,Los Angeles Lakers,100,/boxscores/202310260LAL.html,,Los Angeles Lakers
+2023-10-27,Denver Nuggets,108,Memphis Grizzlies,104,/boxscores/202310270MEM.html,,Denver Nuggets
+2023-10-27,Detroit Pistons,111,Charlotte Hornets,99,/boxscores/202310270CHO.html,,Detroit Pistons
+2023-10-27,New York Knicks,126,Atlanta Hawks,120,/boxscores/202310270ATL.html,,New York Knicks
+2023-10-27,Oklahoma City Thunder,108,Cleveland Cavaliers,105,/boxscores/202310270CLE.html,,Oklahoma City Thunder
+2023-10-27,Miami Heat,111,Boston Celtics,119,/boxscores/202310270BOS.html,,Boston Celtics
+2023-10-27,Toronto Raptors,103,Chicago Bulls,104,/boxscores/202310270CHI.html,OT,Chicago Bulls
+2023-10-27,Houston Rockets,122,San Antonio Spurs,126,/boxscores/202310270SAS.html,OT,San Antonio Spurs
+2023-10-27,Brooklyn Nets,120,Dallas Mavericks,125,/boxscores/202310270DAL.html,,Dallas Mavericks
+2023-10-27,Los Angeles Clippers,118,Utah Jazz,120,/boxscores/202310270UTA.html,,Utah Jazz
+2023-10-27,Orlando Magic,102,Portland Trail Blazers,97,/boxscores/202310270POR.html,,Orlando Magic
+2023-10-27,Golden State Warriors,122,Sacramento Kings,114,/boxscores/202310270SAC.html,,Golden State Warriors
+2023-10-28,Chicago Bulls,102,Detroit Pistons,118,/boxscores/202310280DET.html,,Detroit Pistons
+2023-10-28,Memphis Grizzlies,106,Washington Wizards,113,/boxscores/202310280WAS.html,,Washington Wizards
+2023-10-28,New York Knicks,87,New Orleans Pelicans,96,/boxscores/202310280NOP.html,,New Orleans Pelicans
+2023-10-28,Indiana Pacers,125,Cleveland Cavaliers,113,/boxscores/202310280CLE.html,,Indiana Pacers
+2023-10-28,Philadelphia 76ers,114,Toronto Raptors,107,/boxscores/202310280TOR.html,,Philadelphia 76ers
+2023-10-28,Miami Heat,90,Minnesota Timberwolves,106,/boxscores/202310280MIN.html,,Minnesota Timberwolves
+2023-10-28,Utah Jazz,104,Phoenix Suns,126,/boxscores/202310280PHO.html,,Phoenix Suns
+2023-10-29,Denver Nuggets,128,Oklahoma City Thunder,95,/boxscores/202310290OKC.html,,Denver Nuggets
+2023-10-29,Golden State Warriors,106,Houston Rockets,95,/boxscores/202310290HOU.html,,Golden State Warriors
+2023-10-29,Atlanta Hawks,127,Milwaukee Bucks,110,/boxscores/202310290MIL.html,,Atlanta Hawks
+2023-10-29,Portland Trail Blazers,98,Philadelphia 76ers,126,/boxscores/202310290PHI.html,,Philadelphia 76ers
+2023-10-29,San Antonio Spurs,83,Los Angeles Clippers,123,/boxscores/202310290LAC.html,,Los Angeles Clippers
+2023-10-29,Los Angeles Lakers,127,Sacramento Kings,132,/boxscores/202310290SAC.html,OT,Sacramento Kings
+2023-10-30,Chicago Bulls,112,Indiana Pacers,105,/boxscores/202310300IND.html,,Chicago Bulls
+2023-10-30,Boston Celtics,126,Washington Wizards,107,/boxscores/202310300WAS.html,,Boston Celtics
+2023-10-30,Brooklyn Nets,133,Charlotte Hornets,121,/boxscores/202310300CHO.html,,Brooklyn Nets
+2023-10-30,Portland Trail Blazers,99,Toronto Raptors,91,/boxscores/202310300TOR.html,,Portland Trail Blazers
+2023-10-30,Minnesota Timberwolves,113,Atlanta Hawks,127,/boxscores/202310300ATL.html,,Atlanta Hawks
+2023-10-30,Dallas Mavericks,125,Memphis Grizzlies,110,/boxscores/202310300MEM.html,,Dallas Mavericks
+2023-10-30,Miami Heat,114,Milwaukee Bucks,122,/boxscores/202310300MIL.html,,Milwaukee Bucks
+2023-10-30,Golden State Warriors,130,New Orleans Pelicans,102,/boxscores/202310300NOP.html,,Golden State Warriors
+2023-10-30,Detroit Pistons,112,Oklahoma City Thunder,124,/boxscores/202310300OKC.html,,Oklahoma City Thunder
+2023-10-30,Utah Jazz,102,Denver Nuggets,110,/boxscores/202310300DEN.html,,Denver Nuggets
+2023-10-30,Orlando Magic,103,Los Angeles Lakers,106,/boxscores/202310300LAL.html,,Los Angeles Lakers
+2023-10-31,New York Knicks,109,Cleveland Cavaliers,91,/boxscores/202310310CLE.html,,New York Knicks
+2023-10-31,San Antonio Spurs,115,Phoenix Suns,114,/boxscores/202310310PHO.html,,San Antonio Spurs
+2023-10-31,Orlando Magic,102,Los Angeles Clippers,118,/boxscores/202310310LAC.html,,Los Angeles Clippers
+2023-11-01,Portland Trail Blazers,110,Detroit Pistons,101,/boxscores/202311010DET.html,,Portland Trail Blazers
+2023-11-01,Milwaukee Bucks,111,Toronto Raptors,130,/boxscores/202311010TOR.html,,Toronto Raptors
+2023-11-01,Washington Wizards,121,Atlanta Hawks,130,/boxscores/202311010ATL.html,,Atlanta Hawks
+2023-11-01,Indiana Pacers,104,Boston Celtics,155,/boxscores/202311010BOS.html,,Boston Celtics
+2023-11-01,Brooklyn Nets,109,Miami Heat,105,/boxscores/202311010MIA.html,,Brooklyn Nets
+2023-11-01,Cleveland Cavaliers,95,New York Knicks,89,/boxscores/202311010NYK.html,,Cleveland Cavaliers
+2023-11-01,New Orleans Pelicans,110,Oklahoma City Thunder,106,/boxscores/202311010OKC.html,,New Orleans Pelicans
+2023-11-01,Charlotte Hornets,119,Houston Rockets,128,/boxscores/202311010HOU.html,,Houston Rockets
+2023-11-01,Denver Nuggets,89,Minnesota Timberwolves,110,/boxscores/202311010MIN.html,,Minnesota Timberwolves
+2023-11-01,Chicago Bulls,105,Dallas Mavericks,114,/boxscores/202311010DAL.html,,Dallas Mavericks
+2023-11-01,Memphis Grizzlies,109,Utah Jazz,133,/boxscores/202311010UTA.html,,Utah Jazz
+2023-11-01,Sacramento Kings,101,Golden State Warriors,102,/boxscores/202311010GSW.html,,Golden State Warriors
+2023-11-01,Los Angeles Clippers,125,Los Angeles Lakers,130,/boxscores/202311010LAL.html,OT,Los Angeles Lakers
+2023-11-02,Toronto Raptors,99,Philadelphia 76ers,114,/boxscores/202311020PHI.html,,Philadelphia 76ers
+2023-11-02,Detroit Pistons,116,New Orleans Pelicans,125,/boxscores/202311020NOP.html,,New Orleans Pelicans
+2023-11-02,Orlando Magic,115,Utah Jazz,113,/boxscores/202311020UTA.html,,Orlando Magic
+2023-11-02,San Antonio Spurs,132,Phoenix Suns,121,/boxscores/202311020PHO.html,,San Antonio Spurs
+2023-11-03,Cleveland Cavaliers,116,Indiana Pacers,121,/boxscores/202311030IND.html,,Indiana Pacers
+2023-11-03,New York Knicks,105,Milwaukee Bucks,110,/boxscores/202311030MIL.html,,Milwaukee Bucks
+2023-11-03,Brooklyn Nets,109,Chicago Bulls,107,/boxscores/202311030CHI.html,,Brooklyn Nets
+2023-11-03,Washington Wizards,114,Miami Heat,121,/boxscores/202311030MIA.html,,Miami Heat
+2023-11-03,Golden State Warriors,141,Oklahoma City Thunder,139,/boxscores/202311030OKC.html,,Golden State Warriors
+2023-11-03,Dallas Mavericks,114,Denver Nuggets,125,/boxscores/202311030DEN.html,,Denver Nuggets
+2023-11-03,Memphis Grizzlies,113,Portland Trail Blazers,115,/boxscores/202311030POR.html,OT,Portland Trail Blazers
+2023-11-04,Phoenix Suns,100,Philadelphia 76ers,112,/boxscores/202311040PHI.html,,Philadelphia 76ers
+2023-11-04,Charlotte Hornets,125,Indiana Pacers,124,/boxscores/202311040IND.html,,Charlotte Hornets
+2023-11-04,Atlanta Hawks,123,New Orleans Pelicans,105,/boxscores/202311040NOP.html,,Atlanta Hawks
+2023-11-04,Los Angeles Lakers,101,Orlando Magic,120,/boxscores/202311040ORL.html,,Orlando Magic
+2023-11-04,Boston Celtics,124,Brooklyn Nets,114,/boxscores/202311040BRK.html,,Boston Celtics
+2023-11-04,Sacramento Kings,89,Houston Rockets,107,/boxscores/202311040HOU.html,,Houston Rockets
+2023-11-04,Utah Jazz,95,Minnesota Timberwolves,123,/boxscores/202311040MIN.html,,Minnesota Timberwolves
+2023-11-04,Chicago Bulls,101,Denver Nuggets,123,/boxscores/202311040DEN.html,,Denver Nuggets
+2023-11-05,Phoenix Suns,120,Detroit Pistons,106,/boxscores/202311050DET.html,,Phoenix Suns
+2023-11-05,Toronto Raptors,123,San Antonio Spurs,116,/boxscores/202311050SAS.html,OT,Toronto Raptors
+2023-11-05,Golden State Warriors,104,Cleveland Cavaliers,115,/boxscores/202311050CLE.html,,Cleveland Cavaliers
+2023-11-05,Charlotte Hornets,118,Dallas Mavericks,124,/boxscores/202311050DAL.html,,Dallas Mavericks
+2023-11-05,Memphis Grizzlies,112,Portland Trail Blazers,100,/boxscores/202311050POR.html,,Memphis Grizzlies
+2023-11-06,Golden State Warriors,120,Detroit Pistons,109,/boxscores/202311060DET.html,,Golden State Warriors
+2023-11-06,San Antonio Spurs,111,Indiana Pacers,152,/boxscores/202311060IND.html,,Indiana Pacers
+2023-11-06,Dallas Mavericks,117,Orlando Magic,102,/boxscores/202311060ORL.html,,Dallas Mavericks
+2023-11-06,Washington Wizards,128,Philadelphia 76ers,146,/boxscores/202311060PHI.html,,Philadelphia 76ers
+2023-11-06,Milwaukee Bucks,129,Brooklyn Nets,125,/boxscores/202311060BRK.html,,Milwaukee Bucks
+2023-11-06,Los Angeles Lakers,107,Miami Heat,108,/boxscores/202311060MIA.html,,Miami Heat
+2023-11-06,Los Angeles Clippers,97,New York Knicks,111,/boxscores/202311060NYK.html,,New York Knicks
+2023-11-06,Utah Jazz,113,Chicago Bulls,130,/boxscores/202311060CHI.html,,Chicago Bulls
+2023-11-06,Sacramento Kings,97,Houston Rockets,122,/boxscores/202311060HOU.html,,Houston Rockets
+2023-11-06,Boston Celtics,109,Minnesota Timberwolves,114,/boxscores/202311060MIN.html,OT,Minnesota Timberwolves
+2023-11-06,Atlanta Hawks,117,Oklahoma City Thunder,126,/boxscores/202311060OKC.html,,Oklahoma City Thunder
+2023-11-06,New Orleans Pelicans,116,Denver Nuggets,134,/boxscores/202311060DEN.html,,Denver Nuggets
+2023-11-08,Washington Wizards,132,Charlotte Hornets,116,/boxscores/202311080CHO.html,,Washington Wizards
+2023-11-08,Utah Jazz,118,Indiana Pacers,134,/boxscores/202311080IND.html,,Indiana Pacers
+2023-11-08,Boston Celtics,103,Philadelphia 76ers,106,/boxscores/202311080PHI.html,,Philadelphia 76ers
+2023-11-08,Los Angeles Clippers,93,Brooklyn Nets,100,/boxscores/202311080BRK.html,,Brooklyn Nets
+2023-11-08,San Antonio Spurs,105,New York Knicks,126,/boxscores/202311080NYK.html,,New York Knicks
+2023-11-08,Phoenix Suns,116,Chicago Bulls,115,/boxscores/202311080CHI.html,OT,Phoenix Suns
+2023-11-08,Los Angeles Lakers,94,Houston Rockets,128,/boxscores/202311080HOU.html,,Houston Rockets
+2023-11-08,Miami Heat,108,Memphis Grizzlies,102,/boxscores/202311080MEM.html,,Miami Heat
+2023-11-08,Detroit Pistons,118,Milwaukee Bucks,120,/boxscores/202311080MIL.html,,Milwaukee Bucks
+2023-11-08,New Orleans Pelicans,101,Minnesota Timberwolves,122,/boxscores/202311080MIN.html,,Minnesota Timberwolves
+2023-11-08,Cleveland Cavaliers,120,Oklahoma City Thunder,128,/boxscores/202311080OKC.html,,Oklahoma City Thunder
+2023-11-08,Toronto Raptors,127,Dallas Mavericks,116,/boxscores/202311080DAL.html,,Toronto Raptors
+2023-11-08,Golden State Warriors,105,Denver Nuggets,108,/boxscores/202311080DEN.html,,Denver Nuggets
+2023-11-08,Portland Trail Blazers,118,Sacramento Kings,121,/boxscores/202311080SAC.html,OT,Sacramento Kings
+2023-11-09,Milwaukee Bucks,124,Indiana Pacers,126,/boxscores/202311090IND.html,,Indiana Pacers
+2023-11-09,Atlanta Hawks,120,Orlando Magic,119,/boxscores/202311090ORL.html,,Atlanta Hawks
+2023-11-10,Philadelphia 76ers,114,Detroit Pistons,106,/boxscores/202311100DET.html,,Philadelphia 76ers
+2023-11-10,Charlotte Hornets,124,Washington Wizards,117,/boxscores/202311100WAS.html,,Charlotte Hornets
+2023-11-10,Brooklyn Nets,107,Boston Celtics,121,/boxscores/202311100BOS.html,,Boston Celtics
+2023-11-10,New Orleans Pelicans,101,Houston Rockets,104,/boxscores/202311100HOU.html,,Houston Rockets
+2023-11-10,Utah Jazz,127,Memphis Grizzlies,121,/boxscores/202311100MEM.html,,Utah Jazz
+2023-11-10,Minnesota Timberwolves,117,San Antonio Spurs,110,/boxscores/202311100SAS.html,,Minnesota Timberwolves
+2023-11-10,Los Angeles Clippers,126,Dallas Mavericks,144,/boxscores/202311100DAL.html,,Dallas Mavericks
+2023-11-10,Los Angeles Lakers,122,Phoenix Suns,119,/boxscores/202311100PHO.html,,Los Angeles Lakers
+2023-11-10,Oklahoma City Thunder,98,Sacramento Kings,105,/boxscores/202311100SAC.html,,Sacramento Kings
+2023-11-11,Milwaukee Bucks,97,Orlando Magic,112,/boxscores/202311110ORL.html,,Orlando Magic
+2023-11-11,Toronto Raptors,94,Boston Celtics,117,/boxscores/202311110BOS.html,,Boston Celtics
+2023-11-11,Miami Heat,117,Atlanta Hawks,109,/boxscores/202311110ATL.html,,Miami Heat
+2023-11-11,Cleveland Cavaliers,118,Golden State Warriors,110,/boxscores/202311110GSW.html,,Cleveland Cavaliers
+2023-11-12,Charlotte Hornets,107,New York Knicks,129,/boxscores/202311120NYK.html,,New York Knicks
+2023-11-12,Washington Wizards,94,Brooklyn Nets,102,/boxscores/202311120BRK.html,,Brooklyn Nets
+2023-11-12,Memphis Grizzlies,105,Los Angeles Clippers,101,/boxscores/202311120LAC.html,,Memphis Grizzlies
+2023-11-12,Indiana Pacers,126,Philadelphia 76ers,137,/boxscores/202311120PHI.html,,Philadelphia 76ers
+2023-11-12,Detroit Pistons,108,Chicago Bulls,119,/boxscores/202311120CHI.html,,Chicago Bulls
+2023-11-12,Denver Nuggets,104,Houston Rockets,107,/boxscores/202311120HOU.html,,Houston Rockets
+2023-11-12,Dallas Mavericks,136,New Orleans Pelicans,124,/boxscores/202311120NOP.html,,Dallas Mavericks
+2023-11-12,Miami Heat,118,San Antonio Spurs,113,/boxscores/202311120SAS.html,,Miami Heat
+2023-11-12,Oklahoma City Thunder,111,Phoenix Suns,99,/boxscores/202311120PHO.html,,Oklahoma City Thunder
+2023-11-12,Minnesota Timberwolves,116,Golden State Warriors,110,/boxscores/202311120GSW.html,,Minnesota Timberwolves
+2023-11-12,Portland Trail Blazers,110,Los Angeles Lakers,116,/boxscores/202311120LAL.html,,Los Angeles Lakers
+2023-11-13,New York Knicks,98,Boston Celtics,114,/boxscores/202311130BOS.html,,Boston Celtics
+2023-11-13,Washington Wizards,107,Toronto Raptors,111,/boxscores/202311130TOR.html,,Toronto Raptors
+2023-11-13,Chicago Bulls,109,Milwaukee Bucks,118,/boxscores/202311130MIL.html,,Milwaukee Bucks
+2023-11-13,Cleveland Cavaliers,120,Sacramento Kings,132,/boxscores/202311130SAC.html,,Sacramento Kings
+2023-11-14,Miami Heat,111,Charlotte Hornets,105,/boxscores/202311140CHO.html,,Miami Heat
+2023-11-14,Atlanta Hawks,126,Detroit Pistons,120,/boxscores/202311140DET.html,,Atlanta Hawks
+2023-11-14,Indiana Pacers,132,Philadelphia 76ers,126,/boxscores/202311140PHI.html,,Indiana Pacers
+2023-11-14,Orlando Magic,104,Brooklyn Nets,124,/boxscores/202311140BRK.html,,Brooklyn Nets
+2023-11-14,San Antonio Spurs,87,Oklahoma City Thunder,123,/boxscores/202311140OKC.html,,Oklahoma City Thunder
+2023-11-14,Dallas Mavericks,110,New Orleans Pelicans,131,/boxscores/202311140NOP.html,,New Orleans Pelicans
+2023-11-14,Portland Trail Blazers,99,Utah Jazz,115,/boxscores/202311140UTA.html,,Utah Jazz
+2023-11-14,Los Angeles Clippers,108,Denver Nuggets,111,/boxscores/202311140DEN.html,,Denver Nuggets
+2023-11-14,Minnesota Timberwolves,104,Golden State Warriors,101,/boxscores/202311140GSW.html,,Minnesota Timberwolves
+2023-11-14,Memphis Grizzlies,107,Los Angeles Lakers,134,/boxscores/202311140LAL.html,,Los Angeles Lakers
+2023-11-15,Dallas Mavericks,130,Washington Wizards,117,/boxscores/202311150WAS.html,,Dallas Mavericks
+2023-11-15,New York Knicks,116,Atlanta Hawks,114,/boxscores/202311150ATL.html,,New York Knicks
+2023-11-15,Boston Celtics,117,Philadelphia 76ers,107,/boxscores/202311150PHI.html,,Boston Celtics
+2023-11-15,Milwaukee Bucks,128,Toronto Raptors,112,/boxscores/202311150TOR.html,,Milwaukee Bucks
+2023-11-15,Orlando Magic,96,Chicago Bulls,94,/boxscores/202311150CHI.html,,Orlando Magic
+2023-11-15,Minnesota Timberwolves,115,Phoenix Suns,133,/boxscores/202311150PHO.html,,Phoenix Suns
+2023-11-15,Sacramento Kings,125,Los Angeles Lakers,110,/boxscores/202311150LAL.html,,Sacramento Kings
+2023-11-15,Cleveland Cavaliers,109,Portland Trail Blazers,95,/boxscores/202311150POR.html,,Cleveland Cavaliers
+2023-11-16,Brooklyn Nets,115,Miami Heat,122,/boxscores/202311160MIA.html,,Miami Heat
+2023-11-16,Oklahoma City Thunder,128,Golden State Warriors,109,/boxscores/202311160GSW.html,,Oklahoma City Thunder
+2023-11-17,Milwaukee Bucks,130,Charlotte Hornets,99,/boxscores/202311170CHO.html,,Milwaukee Bucks
+2023-11-17,New York Knicks,120,Washington Wizards,99,/boxscores/202311170WAS.html,,New York Knicks
+2023-11-17,Philadelphia 76ers,126,Atlanta Hawks,116,/boxscores/202311170ATL.html,,Philadelphia 76ers
+2023-11-17,Detroit Pistons,100,Cleveland Cavaliers,108,/boxscores/202311170CLE.html,,Cleveland Cavaliers
+2023-11-17,Sacramento Kings,129,San Antonio Spurs,120,/boxscores/202311170SAS.html,,Sacramento Kings
+2023-11-17,Boston Celtics,108,Toronto Raptors,105,/boxscores/202311170TOR.html,,Boston Celtics
+2023-11-17,Orlando Magic,103,Chicago Bulls,97,/boxscores/202311170CHI.html,,Orlando Magic
+2023-11-17,Denver Nuggets,110,New Orleans Pelicans,115,/boxscores/202311170NOP.html,,New Orleans Pelicans
+2023-11-17,Los Angeles Lakers,107,Portland Trail Blazers,95,/boxscores/202311170POR.html,,Los Angeles Lakers
+2023-11-17,Phoenix Suns,131,Utah Jazz,128,/boxscores/202311170UTA.html,,Phoenix Suns
+2023-11-17,Houston Rockets,100,Los Angeles Clippers,106,/boxscores/202311170LAC.html,,Los Angeles Clippers
+2023-11-18,New York Knicks,122,Charlotte Hornets,108,/boxscores/202311180CHO.html,,New York Knicks
+2023-11-18,Minnesota Timberwolves,121,New Orleans Pelicans,120,/boxscores/202311180NOP.html,,Minnesota Timberwolves
+2023-11-18,Miami Heat,97,Chicago Bulls,102,/boxscores/202311180CHI.html,,Chicago Bulls
+2023-11-18,Dallas Mavericks,125,Milwaukee Bucks,132,/boxscores/202311180MIL.html,,Milwaukee Bucks
+2023-11-18,Memphis Grizzlies,120,San Antonio Spurs,108,/boxscores/202311180SAS.html,,Memphis Grizzlies
+2023-11-18,Oklahoma City Thunder,130,Golden State Warriors,123,/boxscores/202311180GSW.html,OT,Oklahoma City Thunder
+2023-11-19,Philadelphia 76ers,121,Brooklyn Nets,99,/boxscores/202311190BRK.html,,Philadelphia 76ers
+2023-11-19,Detroit Pistons,113,Toronto Raptors,142,/boxscores/202311190TOR.html,,Toronto Raptors
+2023-11-19,Orlando Magic,128,Indiana Pacers,116,/boxscores/202311190IND.html,,Orlando Magic
+2023-11-19,Denver Nuggets,109,Cleveland Cavaliers,121,/boxscores/202311190CLE.html,,Cleveland Cavaliers
+2023-11-19,Sacramento Kings,129,Dallas Mavericks,113,/boxscores/202311190DAL.html,,Sacramento Kings
+2023-11-19,Boston Celtics,102,Memphis Grizzlies,100,/boxscores/202311190MEM.html,,Boston Celtics
+2023-11-19,Phoenix Suns,140,Utah Jazz,137,/boxscores/202311190UTA.html,2OT,Phoenix Suns
+2023-11-19,Oklahoma City Thunder,134,Portland Trail Blazers,91,/boxscores/202311190POR.html,,Oklahoma City Thunder
+2023-11-19,Houston Rockets,104,Los Angeles Lakers,105,/boxscores/202311190LAL.html,,Los Angeles Lakers
+2023-11-20,Boston Celtics,118,Charlotte Hornets,121,/boxscores/202311200CHO.html,OT,Charlotte Hornets
+2023-11-20,Denver Nuggets,107,Detroit Pistons,103,/boxscores/202311200DET.html,,Denver Nuggets
+2023-11-20,Milwaukee Bucks,142,Washington Wizards,129,/boxscores/202311200WAS.html,,Milwaukee Bucks
+2023-11-20,Miami Heat,118,Chicago Bulls,100,/boxscores/202311200CHI.html,,Miami Heat
+2023-11-20,New York Knicks,100,Minnesota Timberwolves,117,/boxscores/202311200MIN.html,,Minnesota Timberwolves
+2023-11-20,Sacramento Kings,93,New Orleans Pelicans,129,/boxscores/202311200NOP.html,,New Orleans Pelicans
+2023-11-20,Los Angeles Clippers,124,San Antonio Spurs,99,/boxscores/202311200SAS.html,,Los Angeles Clippers
+2023-11-20,Houston Rockets,116,Golden State Warriors,121,/boxscores/202311200GSW.html,,Golden State Warriors
+2023-11-21,Toronto Raptors,107,Orlando Magic,126,/boxscores/202311210ORL.html,,Orlando Magic
+2023-11-21,Indiana Pacers,157,Atlanta Hawks,152,/boxscores/202311210ATL.html,,Indiana Pacers
+2023-11-21,Cleveland Cavaliers,122,Philadelphia 76ers,119,/boxscores/202311210PHI.html,OT,Cleveland Cavaliers
+2023-11-21,Portland Trail Blazers,107,Phoenix Suns,120,/boxscores/202311210PHO.html,,Phoenix Suns
+2023-11-21,Utah Jazz,99,Los Angeles Lakers,131,/boxscores/202311210LAL.html,,Los Angeles Lakers
+2023-11-22,Washington Wizards,114,Charlotte Hornets,117,/boxscores/202311220CHO.html,,Charlotte Hornets
+2023-11-22,Denver Nuggets,119,Orlando Magic,124,/boxscores/202311220ORL.html,,Orlando Magic
+2023-11-22,Brooklyn Nets,145,Atlanta Hawks,147,/boxscores/202311220ATL.html,OT,Atlanta Hawks
+2023-11-22,Milwaukee Bucks,116,Boston Celtics,119,/boxscores/202311220BOS.html,,Boston Celtics
+2023-11-22,Miami Heat,129,Cleveland Cavaliers,96,/boxscores/202311220CLE.html,,Miami Heat
+2023-11-22,Toronto Raptors,132,Indiana Pacers,131,/boxscores/202311220IND.html,,Toronto Raptors
+2023-11-22,Memphis Grizzlies,91,Houston Rockets,111,/boxscores/202311220HOU.html,,Houston Rockets
+2023-11-22,Philadelphia 76ers,99,Minnesota Timberwolves,112,/boxscores/202311220MIN.html,,Minnesota Timberwolves
+2023-11-22,Sacramento Kings,112,New Orleans Pelicans,117,/boxscores/202311220NOP.html,,New Orleans Pelicans
+2023-11-22,Chicago Bulls,102,Oklahoma City Thunder,116,/boxscores/202311220OKC.html,,Oklahoma City Thunder
+2023-11-22,Los Angeles Clippers,109,San Antonio Spurs,102,/boxscores/202311220SAS.html,,Los Angeles Clippers
+2023-11-22,Golden State Warriors,115,Phoenix Suns,123,/boxscores/202311220PHO.html,,Phoenix Suns
+2023-11-22,Utah Jazz,105,Portland Trail Blazers,121,/boxscores/202311220POR.html,,Portland Trail Blazers
+2023-11-22,Dallas Mavericks,104,Los Angeles Lakers,101,/boxscores/202311220LAL.html,,Dallas Mavericks
+2023-11-24,Boston Celtics,96,Orlando Magic,113,/boxscores/202311240ORL.html,,Orlando Magic
+2023-11-24,Phoenix Suns,110,Memphis Grizzlies,89,/boxscores/202311240MEM.html,,Phoenix Suns
+2023-11-24,Miami Heat,98,New York Knicks,100,/boxscores/202311240NYK.html,,New York Knicks
+2023-11-24,Chicago Bulls,108,Toronto Raptors,121,/boxscores/202311240TOR.html,,Toronto Raptors
+2023-11-24,Denver Nuggets,86,Houston Rockets,105,/boxscores/202311240HOU.html,,Houston Rockets
+2023-11-24,Detroit Pistons,113,Indiana Pacers,136,/boxscores/202311240IND.html,,Indiana Pacers
+2023-11-24,Washington Wizards,128,Milwaukee Bucks,131,/boxscores/202311240MIL.html,,Milwaukee Bucks
+2023-11-24,Sacramento Kings,124,Minnesota Timberwolves,111,/boxscores/202311240MIN.html,,Sacramento Kings
+2023-11-24,San Antonio Spurs,112,Golden State Warriors,118,/boxscores/202311240GSW.html,,Golden State Warriors
+2023-11-24,New Orleans Pelicans,116,Los Angeles Clippers,106,/boxscores/202311240LAC.html,,New Orleans Pelicans
+2023-11-25,Philadelphia 76ers,127,Oklahoma City Thunder,123,/boxscores/202311250OKC.html,,Philadelphia 76ers
+2023-11-25,Miami Heat,97,Brooklyn Nets,112,/boxscores/202311250BRK.html,,Brooklyn Nets
+2023-11-25,Atlanta Hawks,136,Washington Wizards,108,/boxscores/202311250WAS.html,,Atlanta Hawks
+2023-11-25,Los Angeles Lakers,121,Cleveland Cavaliers,115,/boxscores/202311250CLE.html,,Los Angeles Lakers
+2023-11-25,New Orleans Pelicans,100,Utah Jazz,105,/boxscores/202311250UTA.html,,Utah Jazz
+2023-11-25,Dallas Mavericks,88,Los Angeles Clippers,107,/boxscores/202311250LAC.html,,Los Angeles Clippers
+2023-11-26,Portland Trail Blazers,102,Milwaukee Bucks,108,/boxscores/202311260MIL.html,,Milwaukee Bucks
+2023-11-26,Atlanta Hawks,103,Boston Celtics,113,/boxscores/202311260BOS.html,,Boston Celtics
+2023-11-26,Minnesota Timberwolves,119,Memphis Grizzlies,97,/boxscores/202311260MEM.html,,Minnesota Timberwolves
+2023-11-26,Phoenix Suns,116,New York Knicks,113,/boxscores/202311260NYK.html,,Phoenix Suns
+2023-11-26,Charlotte Hornets,117,Orlando Magic,130,/boxscores/202311260ORL.html,,Orlando Magic
+2023-11-26,Chicago Bulls,109,Brooklyn Nets,118,/boxscores/202311260BRK.html,,Brooklyn Nets
+2023-11-26,Toronto Raptors,102,Cleveland Cavaliers,105,/boxscores/202311260CLE.html,,Cleveland Cavaliers
+2023-11-26,San Antonio Spurs,120,Denver Nuggets,132,/boxscores/202311260DEN.html,,Denver Nuggets
+2023-11-27,Washington Wizards,126,Detroit Pistons,107,/boxscores/202311270DET.html,,Washington Wizards
+2023-11-27,Portland Trail Blazers,114,Indiana Pacers,110,/boxscores/202311270IND.html,,Portland Trail Blazers
+2023-11-27,Los Angeles Lakers,94,Philadelphia 76ers,138,/boxscores/202311270PHI.html,,Philadelphia 76ers
+2023-11-27,New Orleans Pelicans,112,Utah Jazz,114,/boxscores/202311270UTA.html,,Utah Jazz
+2023-11-27,Denver Nuggets,113,Los Angeles Clippers,104,/boxscores/202311270LAC.html,,Denver Nuggets
+2023-11-28,Chicago Bulls,97,Boston Celtics,124,/boxscores/202311280BOS.html,,Boston Celtics
+2023-11-28,Toronto Raptors,103,Brooklyn Nets,115,/boxscores/202311280BRK.html,,Brooklyn Nets
+2023-11-28,Atlanta Hawks,105,Cleveland Cavaliers,128,/boxscores/202311280CLE.html,,Cleveland Cavaliers
+2023-11-28,Milwaukee Bucks,131,Miami Heat,124,/boxscores/202311280MIA.html,,Milwaukee Bucks
+2023-11-28,Charlotte Hornets,91,New York Knicks,115,/boxscores/202311280NYK.html,,New York Knicks
+2023-11-28,Oklahoma City Thunder,103,Minnesota Timberwolves,106,/boxscores/202311280MIN.html,,Minnesota Timberwolves
+2023-11-28,Houston Rockets,115,Dallas Mavericks,121,/boxscores/202311280DAL.html,,Dallas Mavericks
+2023-11-28,Golden State Warriors,123,Sacramento Kings,124,/boxscores/202311280SAC.html,,Sacramento Kings
+2023-11-29,Los Angeles Lakers,133,Detroit Pistons,107,/boxscores/202311290DET.html,,Los Angeles Lakers
+2023-11-29,Washington Wizards,120,Orlando Magic,139,/boxscores/202311290ORL.html,,Orlando Magic
+2023-11-29,Phoenix Suns,105,Toronto Raptors,112,/boxscores/202311290TOR.html,,Toronto Raptors
+2023-11-29,Utah Jazz,91,Memphis Grizzlies,105,/boxscores/202311290MEM.html,,Memphis Grizzlies
+2023-11-29,Philadelphia 76ers,114,New Orleans Pelicans,124,/boxscores/202311290NOP.html,,New Orleans Pelicans
+2023-11-29,Houston Rockets,124,Denver Nuggets,134,/boxscores/202311290DEN.html,,Denver Nuggets
+2023-11-29,Los Angeles Clippers,131,Sacramento Kings,117,/boxscores/202311290SAC.html,,Los Angeles Clippers
+2023-11-30,Portland Trail Blazers,103,Cleveland Cavaliers,95,/boxscores/202311300CLE.html,,Portland Trail Blazers
+2023-11-30,Charlotte Hornets,129,Brooklyn Nets,128,/boxscores/202311300BRK.html,,Charlotte Hornets
+2023-11-30,Indiana Pacers,132,Miami Heat,142,/boxscores/202311300MIA.html,,Miami Heat
+2023-11-30,Detroit Pistons,112,New York Knicks,118,/boxscores/202311300NYK.html,,New York Knicks
+2023-11-30,Milwaukee Bucks,113,Chicago Bulls,120,/boxscores/202311300CHI.html,OT,Chicago Bulls
+2023-11-30,Utah Jazz,90,Minnesota Timberwolves,101,/boxscores/202311300MIN.html,,Minnesota Timberwolves
+2023-11-30,Los Angeles Lakers,110,Oklahoma City Thunder,133,/boxscores/202311300OKC.html,,Oklahoma City Thunder
+2023-11-30,Atlanta Hawks,137,San Antonio Spurs,135,/boxscores/202311300SAS.html,,Atlanta Hawks
+2023-11-30,Los Angeles Clippers,114,Golden State Warriors,120,/boxscores/202311300GSW.html,,Golden State Warriors
+2023-12-01,Washington Wizards,125,Orlando Magic,130,/boxscores/202312010ORL.html,,Orlando Magic
+2023-12-01,Philadelphia 76ers,119,Boston Celtics,125,/boxscores/202312010BOS.html,,Boston Celtics
+2023-12-01,Memphis Grizzlies,108,Dallas Mavericks,94,/boxscores/202312010DAL.html,,Memphis Grizzlies
+2023-12-01,New York Knicks,119,Toronto Raptors,106,/boxscores/202312010TOR.html,,New York Knicks
+2023-12-01,San Antonio Spurs,106,New Orleans Pelicans,121,/boxscores/202312010NOP.html,,New Orleans Pelicans
+2023-12-01,Denver Nuggets,119,Phoenix Suns,111,/boxscores/202312010PHO.html,,Denver Nuggets
+2023-12-02,Golden State Warriors,112,Los Angeles Clippers,113,/boxscores/202312020LAC.html,,Los Angeles Clippers
+2023-12-02,Minnesota Timberwolves,123,Charlotte Hornets,117,/boxscores/202312020CHO.html,,Minnesota Timberwolves
+2023-12-02,Orlando Magic,101,Brooklyn Nets,129,/boxscores/202312020BRK.html,,Brooklyn Nets
+2023-12-02,Cleveland Cavaliers,110,Detroit Pistons,101,/boxscores/202312020DET.html,,Cleveland Cavaliers
+2023-12-02,New Orleans Pelicans,118,Chicago Bulls,124,/boxscores/202312020CHI.html,,Chicago Bulls
+2023-12-02,Indiana Pacers,144,Miami Heat,129,/boxscores/202312020MIA.html,,Indiana Pacers
+2023-12-02,Atlanta Hawks,121,Milwaukee Bucks,132,/boxscores/202312020MIL.html,,Milwaukee Bucks
+2023-12-02,Oklahoma City Thunder,126,Dallas Mavericks,120,/boxscores/202312020DAL.html,,Oklahoma City Thunder
+2023-12-02,Memphis Grizzlies,109,Phoenix Suns,116,/boxscores/202312020PHO.html,,Phoenix Suns
+2023-12-02,Portland Trail Blazers,113,Utah Jazz,118,/boxscores/202312020UTA.html,OT,Utah Jazz
+2023-12-02,Denver Nuggets,117,Sacramento Kings,123,/boxscores/202312020SAC.html,,Sacramento Kings
+2023-12-02,Houston Rockets,97,Los Angeles Lakers,107,/boxscores/202312020LAL.html,,Los Angeles Lakers
+2023-12-04,Boston Celtics,112,Indiana Pacers,122,/boxscores/202312040IND.html,,Indiana Pacers
+2023-12-04,New Orleans Pelicans,127,Sacramento Kings,117,/boxscores/202312040SAC.html,,New Orleans Pelicans
+2023-12-05,New York Knicks,122,Milwaukee Bucks,146,/boxscores/202312050MIL.html,,Milwaukee Bucks
+2023-12-05,Phoenix Suns,103,Los Angeles Lakers,106,/boxscores/202312050LAL.html,,Los Angeles Lakers
+2023-12-06,Orlando Magic,111,Cleveland Cavaliers,121,/boxscores/202312060CLE.html,,Cleveland Cavaliers
+2023-12-06,Memphis Grizzlies,116,Detroit Pistons,102,/boxscores/202312060DET.html,,Memphis Grizzlies
+2023-12-06,Philadelphia 76ers,131,Washington Wizards,126,/boxscores/202312060WAS.html,,Philadelphia 76ers
+2023-12-06,Brooklyn Nets,114,Atlanta Hawks,113,/boxscores/202312060ATL.html,,Brooklyn Nets
+2023-12-06,San Antonio Spurs,94,Minnesota Timberwolves,102,/boxscores/202312060MIN.html,,Minnesota Timberwolves
+2023-12-06,Miami Heat,112,Toronto Raptors,103,/boxscores/202312060TOR.html,,Miami Heat
+2023-12-06,Charlotte Hornets,100,Chicago Bulls,111,/boxscores/202312060CHI.html,,Chicago Bulls
+2023-12-06,Oklahoma City Thunder,101,Houston Rockets,110,/boxscores/202312060HOU.html,,Houston Rockets
+2023-12-06,Utah Jazz,97,Dallas Mavericks,147,/boxscores/202312060DAL.html,,Dallas Mavericks
+2023-12-06,Portland Trail Blazers,106,Golden State Warriors,110,/boxscores/202312060GSW.html,,Golden State Warriors
+2023-12-06,Denver Nuggets,102,Los Angeles Clippers,111,/boxscores/202312060LAC.html,,Los Angeles Clippers
+2023-12-07,Indiana Pacers,128,Milwaukee Bucks,119,/boxscores/202312070MIL.html,,Indiana Pacers
+2023-12-07,New Orleans Pelicans,89,Los Angeles Lakers,133,/boxscores/202312070LAL.html,,Los Angeles Lakers
+2023-12-08,Toronto Raptors,116,Charlotte Hornets,119,/boxscores/202312080CHO.html,,Charlotte Hornets
+2023-12-08,Detroit Pistons,91,Orlando Magic,123,/boxscores/202312080ORL.html,,Orlando Magic
+2023-12-08,Atlanta Hawks,114,Philadelphia 76ers,125,/boxscores/202312080PHI.html,,Philadelphia 76ers
+2023-12-08,New York Knicks,123,Boston Celtics,133,/boxscores/202312080BOS.html,,Boston Celtics
+2023-12-08,Washington Wizards,97,Brooklyn Nets,124,/boxscores/202312080BRK.html,,Brooklyn Nets
+2023-12-08,Minnesota Timberwolves,127,Memphis Grizzlies,103,/boxscores/202312080MEM.html,,Minnesota Timberwolves
+2023-12-08,Cleveland Cavaliers,111,Miami Heat,99,/boxscores/202312080MIA.html,,Cleveland Cavaliers
+2023-12-08,Golden State Warriors,136,Oklahoma City Thunder,138,/boxscores/202312080OKC.html,OT,Oklahoma City Thunder
+2023-12-08,Chicago Bulls,121,San Antonio Spurs,112,/boxscores/202312080SAS.html,,Chicago Bulls
+2023-12-08,Houston Rockets,114,Denver Nuggets,106,/boxscores/202312080DEN.html,,Houston Rockets
+2023-12-08,Sacramento Kings,114,Phoenix Suns,106,/boxscores/202312080PHO.html,,Sacramento Kings
+2023-12-08,Dallas Mavericks,125,Portland Trail Blazers,112,/boxscores/202312080POR.html,,Dallas Mavericks
+2023-12-08,Los Angeles Clippers,117,Utah Jazz,103,/boxscores/202312080UTA.html,,Los Angeles Clippers
+2023-12-09,Indiana Pacers,109,Los Angeles Lakers,123,/boxscores/202312090LAL.html,,Los Angeles Lakers
+2023-12-11,Miami Heat,116,Charlotte Hornets,114,/boxscores/202312110CHO.html,,Miami Heat
+2023-12-11,Indiana Pacers,131,Detroit Pistons,123,/boxscores/202312110DET.html,,Indiana Pacers
+2023-12-11,Cleveland Cavaliers,94,Orlando Magic,104,/boxscores/202312110ORL.html,,Orlando Magic
+2023-12-11,Washington Wizards,101,Philadelphia 76ers,146,/boxscores/202312110PHI.html,,Philadelphia 76ers
+2023-12-11,Denver Nuggets,129,Atlanta Hawks,122,/boxscores/202312110ATL.html,,Denver Nuggets
+2023-12-11,Toronto Raptors,130,New York Knicks,136,/boxscores/202312110NYK.html,,New York Knicks
+2023-12-11,San Antonio Spurs,82,Houston Rockets,93,/boxscores/202312110HOU.html,,Houston Rockets
+2023-12-11,Dallas Mavericks,120,Memphis Grizzlies,113,/boxscores/202312110MEM.html,,Dallas Mavericks
+2023-12-11,Chicago Bulls,129,Milwaukee Bucks,133,/boxscores/202312110MIL.html,OT,Milwaukee Bucks
+2023-12-11,Minnesota Timberwolves,107,New Orleans Pelicans,121,/boxscores/202312110NOP.html,,New Orleans Pelicans
+2023-12-11,Utah Jazz,120,Oklahoma City Thunder,134,/boxscores/202312110OKC.html,,Oklahoma City Thunder
+2023-12-11,Brooklyn Nets,118,Sacramento Kings,131,/boxscores/202312110SAC.html,,Sacramento Kings
+2023-12-11,Portland Trail Blazers,127,Los Angeles Clippers,132,/boxscores/202312110LAC.html,,Los Angeles Clippers
+2023-12-12,Cleveland Cavaliers,113,Boston Celtics,120,/boxscores/202312120BOS.html,,Boston Celtics
+2023-12-12,Los Angeles Lakers,125,Dallas Mavericks,127,/boxscores/202312120DAL.html,,Dallas Mavericks
+2023-12-12,Denver Nuggets,114,Chicago Bulls,106,/boxscores/202312120CHI.html,,Denver Nuggets
+2023-12-12,Golden State Warriors,116,Phoenix Suns,119,/boxscores/202312120PHO.html,,Phoenix Suns
+2023-12-12,Sacramento Kings,99,Los Angeles Clippers,119,/boxscores/202312120LAC.html,,Los Angeles Clippers
+2023-12-13,Philadelphia 76ers,129,Detroit Pistons,111,/boxscores/202312130DET.html,,Philadelphia 76ers
+2023-12-13,New Orleans Pelicans,142,Washington Wizards,122,/boxscores/202312130WAS.html,,New Orleans Pelicans
+2023-12-13,Charlotte Hornets,104,Miami Heat,115,/boxscores/202312130MIA.html,,Miami Heat
+2023-12-13,Atlanta Hawks,128,Toronto Raptors,135,/boxscores/202312130TOR.html,,Toronto Raptors
+2023-12-13,Memphis Grizzlies,104,Houston Rockets,117,/boxscores/202312130HOU.html,,Houston Rockets
+2023-12-13,Indiana Pacers,126,Milwaukee Bucks,140,/boxscores/202312130MIL.html,,Milwaukee Bucks
+2023-12-13,Los Angeles Lakers,122,San Antonio Spurs,119,/boxscores/202312130SAS.html,,Los Angeles Lakers
+2023-12-13,Brooklyn Nets,116,Phoenix Suns,112,/boxscores/202312130PHO.html,,Brooklyn Nets
+2023-12-13,New York Knicks,113,Utah Jazz,117,/boxscores/202312130UTA.html,,Utah Jazz
+2023-12-14,Cleveland Cavaliers,107,Boston Celtics,116,/boxscores/202312140BOS.html,,Boston Celtics
+2023-12-14,Chicago Bulls,124,Miami Heat,116,/boxscores/202312140MIA.html,,Chicago Bulls
+2023-12-14,Minnesota Timberwolves,119,Dallas Mavericks,101,/boxscores/202312140DAL.html,,Minnesota Timberwolves
+2023-12-14,Brooklyn Nets,101,Denver Nuggets,124,/boxscores/202312140DEN.html,,Denver Nuggets
+2023-12-14,Utah Jazz,122,Portland Trail Blazers,114,/boxscores/202312140POR.html,,Utah Jazz
+2023-12-14,Oklahoma City Thunder,123,Sacramento Kings,128,/boxscores/202312140SAC.html,,Sacramento Kings
+2023-12-14,Golden State Warriors,113,Los Angeles Clippers,121,/boxscores/202312140LAC.html,,Los Angeles Clippers
+2023-12-15,New Orleans Pelicans,112,Charlotte Hornets,107,/boxscores/202312150CHO.html,,New Orleans Pelicans
+2023-12-15,Detroit Pistons,92,Philadelphia 76ers,124,/boxscores/202312150PHI.html,,Philadelphia 76ers
+2023-12-15,Indiana Pacers,123,Washington Wizards,137,/boxscores/202312150WAS.html,,Washington Wizards
+2023-12-15,Orlando Magic,111,Boston Celtics,128,/boxscores/202312150BOS.html,,Boston Celtics
+2023-12-15,Los Angeles Lakers,115,San Antonio Spurs,129,/boxscores/202312150SAS.html,,San Antonio Spurs
+2023-12-15,Atlanta Hawks,125,Toronto Raptors,104,/boxscores/202312150TOR.html,,Atlanta Hawks
+2023-12-15,Houston Rockets,103,Memphis Grizzlies,96,/boxscores/202312150MEM.html,,Houston Rockets
+2023-12-15,New York Knicks,139,Phoenix Suns,122,/boxscores/202312150PHO.html,,New York Knicks
+2023-12-16,Detroit Pistons,114,Milwaukee Bucks,146,/boxscores/202312160MIL.html,,Milwaukee Bucks
+2023-12-16,Philadelphia 76ers,135,Charlotte Hornets,82,/boxscores/202312160CHO.html,,Philadelphia 76ers
+2023-12-16,Atlanta Hawks,119,Cleveland Cavaliers,127,/boxscores/202312160CLE.html,,Cleveland Cavaliers
+2023-12-16,Chicago Bulls,116,Miami Heat,118,/boxscores/202312160MIA.html,,Miami Heat
+2023-12-16,Indiana Pacers,109,Minnesota Timberwolves,127,/boxscores/202312160MIN.html,,Minnesota Timberwolves
+2023-12-16,Brooklyn Nets,120,Golden State Warriors,124,/boxscores/202312160GSW.html,,Golden State Warriors
+2023-12-16,Oklahoma City Thunder,118,Denver Nuggets,117,/boxscores/202312160DEN.html,,Oklahoma City Thunder
+2023-12-16,Dallas Mavericks,131,Portland Trail Blazers,120,/boxscores/202312160POR.html,,Dallas Mavericks
+2023-12-16,Utah Jazz,104,Sacramento Kings,125,/boxscores/202312160SAC.html,,Sacramento Kings
+2023-12-16,New York Knicks,122,Los Angeles Clippers,144,/boxscores/202312160LAC.html,,Los Angeles Clippers
+2023-12-17,Orlando Magic,97,Boston Celtics,114,/boxscores/202312170BOS.html,,Boston Celtics
+2023-12-17,New Orleans Pelicans,146,San Antonio Spurs,110,/boxscores/202312170SAS.html,,New Orleans Pelicans
+2023-12-17,Houston Rockets,119,Milwaukee Bucks,128,/boxscores/202312170MIL.html,,Milwaukee Bucks
+2023-12-17,Washington Wizards,108,Phoenix Suns,112,/boxscores/202312170PHO.html,,Phoenix Suns
+2023-12-17,Golden State Warriors,118,Portland Trail Blazers,114,/boxscores/202312170POR.html,,Golden State Warriors
+2023-12-18,Houston Rockets,130,Cleveland Cavaliers,135,/boxscores/202312180CLE.html,OT,Cleveland Cavaliers
+2023-12-18,Los Angeles Clippers,151,Indiana Pacers,127,/boxscores/202312180IND.html,,Los Angeles Clippers
+2023-12-18,Chicago Bulls,108,Philadelphia 76ers,104,/boxscores/202312180PHI.html,,Chicago Bulls
+2023-12-18,Detroit Pistons,124,Atlanta Hawks,130,/boxscores/202312180ATL.html,,Atlanta Hawks
+2023-12-18,Minnesota Timberwolves,112,Miami Heat,108,/boxscores/202312180MIA.html,,Minnesota Timberwolves
+2023-12-18,Charlotte Hornets,99,Toronto Raptors,114,/boxscores/202312180TOR.html,,Toronto Raptors
+2023-12-18,Memphis Grizzlies,97,Oklahoma City Thunder,116,/boxscores/202312180OKC.html,,Oklahoma City Thunder
+2023-12-18,Dallas Mavericks,104,Denver Nuggets,130,/boxscores/202312180DEN.html,,Denver Nuggets
+2023-12-18,Brooklyn Nets,108,Utah Jazz,125,/boxscores/202312180UTA.html,,Utah Jazz
+2023-12-18,Washington Wizards,131,Sacramento Kings,143,/boxscores/202312180SAC.html,,Sacramento Kings
+2023-12-18,New York Knicks,114,Los Angeles Lakers,109,/boxscores/202312180LAL.html,,New York Knicks
+2023-12-19,Memphis Grizzlies,115,New Orleans Pelicans,113,/boxscores/202312190NOP.html,,Memphis Grizzlies
+2023-12-19,San Antonio Spurs,119,Milwaukee Bucks,132,/boxscores/202312190MIL.html,,Milwaukee Bucks
+2023-12-19,Boston Celtics,126,Golden State Warriors,132,/boxscores/202312190GSW.html,OT,Golden State Warriors
+2023-12-19,Phoenix Suns,104,Portland Trail Blazers,109,/boxscores/202312190POR.html,,Portland Trail Blazers
+2023-12-20,Utah Jazz,116,Cleveland Cavaliers,124,/boxscores/202312200CLE.html,,Cleveland Cavaliers
+2023-12-20,Charlotte Hornets,113,Indiana Pacers,144,/boxscores/202312200IND.html,,Indiana Pacers
+2023-12-20,Miami Heat,115,Orlando Magic,106,/boxscores/202312200ORL.html,,Miami Heat
+2023-12-20,Minnesota Timberwolves,113,Philadelphia 76ers,127,/boxscores/202312200PHI.html,,Philadelphia 76ers
+2023-12-20,New York Knicks,121,Brooklyn Nets,102,/boxscores/202312200BRK.html,,New York Knicks
+2023-12-20,Denver Nuggets,113,Toronto Raptors,104,/boxscores/202312200TOR.html,,Denver Nuggets
+2023-12-20,Los Angeles Lakers,108,Chicago Bulls,124,/boxscores/202312200CHI.html,,Chicago Bulls
+2023-12-20,Atlanta Hawks,134,Houston Rockets,127,/boxscores/202312200HOU.html,,Atlanta Hawks
+2023-12-20,Los Angeles Clippers,120,Dallas Mavericks,111,/boxscores/202312200DAL.html,,Los Angeles Clippers
+2023-12-20,Boston Celtics,144,Sacramento Kings,119,/boxscores/202312200SAC.html,,Boston Celtics
+2023-12-21,Utah Jazz,119,Detroit Pistons,111,/boxscores/202312210DET.html,,Utah Jazz
+2023-12-21,New Orleans Pelicans,123,Cleveland Cavaliers,104,/boxscores/202312210CLE.html,,New Orleans Pelicans
+2023-12-21,San Antonio Spurs,95,Chicago Bulls,114,/boxscores/202312210CHI.html,,Chicago Bulls
+2023-12-21,Indiana Pacers,103,Memphis Grizzlies,116,/boxscores/202312210MEM.html,,Memphis Grizzlies
+2023-12-21,Orlando Magic,114,Milwaukee Bucks,118,/boxscores/202312210MIL.html,,Milwaukee Bucks
+2023-12-21,Los Angeles Clippers,115,Oklahoma City Thunder,134,/boxscores/202312210OKC.html,,Oklahoma City Thunder
+2023-12-21,Los Angeles Lakers,111,Minnesota Timberwolves,118,/boxscores/202312210MIN.html,,Minnesota Timberwolves
+2023-12-21,Washington Wizards,118,Portland Trail Blazers,117,/boxscores/202312210POR.html,,Washington Wizards
+2023-12-22,Toronto Raptors,111,Philadelphia 76ers,121,/boxscores/202312220PHI.html,,Philadelphia 76ers
+2023-12-22,Denver Nuggets,122,Brooklyn Nets,117,/boxscores/202312220BRK.html,,Denver Nuggets
+2023-12-22,Dallas Mavericks,96,Houston Rockets,122,/boxscores/202312220HOU.html,,Houston Rockets
+2023-12-22,Atlanta Hawks,113,Miami Heat,122,/boxscores/202312220MIA.html,,Miami Heat
+2023-12-22,Washington Wizards,118,Golden State Warriors,129,/boxscores/202312220GSW.html,,Golden State Warriors
+2023-12-22,Phoenix Suns,105,Sacramento Kings,120,/boxscores/202312220SAC.html,,Sacramento Kings
+2023-12-23,Milwaukee Bucks,130,New York Knicks,111,/boxscores/202312230NYK.html,,Milwaukee Bucks
+2023-12-23,Boston Celtics,145,Los Angeles Clippers,108,/boxscores/202312230LAC.html,,Boston Celtics
+2023-12-23,Denver Nuggets,102,Charlotte Hornets,95,/boxscores/202312230CHO.html,,Denver Nuggets
+2023-12-23,Orlando Magic,117,Indiana Pacers,110,/boxscores/202312230IND.html,,Orlando Magic
+2023-12-23,Houston Rockets,106,New Orleans Pelicans,104,/boxscores/202312230NOP.html,,Houston Rockets
+2023-12-23,Memphis Grizzlies,125,Atlanta Hawks,119,/boxscores/202312230ATL.html,,Memphis Grizzlies
+2023-12-23,Detroit Pistons,115,Brooklyn Nets,126,/boxscores/202312230BRK.html,,Brooklyn Nets
+2023-12-23,Utah Jazz,126,Toronto Raptors,119,/boxscores/202312230TOR.html,,Utah Jazz
+2023-12-23,Cleveland Cavaliers,109,Chicago Bulls,95,/boxscores/202312230CHI.html,,Cleveland Cavaliers
+2023-12-23,Los Angeles Lakers,129,Oklahoma City Thunder,120,/boxscores/202312230OKC.html,,Los Angeles Lakers
+2023-12-23,San Antonio Spurs,119,Dallas Mavericks,144,/boxscores/202312230DAL.html,,Dallas Mavericks
+2023-12-23,Portland Trail Blazers,106,Golden State Warriors,126,/boxscores/202312230GSW.html,,Golden State Warriors
+2023-12-23,Minnesota Timberwolves,110,Sacramento Kings,98,/boxscores/202312230SAC.html,,Minnesota Timberwolves
+2023-12-25,Milwaukee Bucks,122,New York Knicks,129,/boxscores/202312250NYK.html,,New York Knicks
+2023-12-25,Golden State Warriors,114,Denver Nuggets,120,/boxscores/202312250DEN.html,,Denver Nuggets
+2023-12-25,Boston Celtics,126,Los Angeles Lakers,115,/boxscores/202312250LAL.html,,Boston Celtics
+2023-12-25,Philadelphia 76ers,113,Miami Heat,119,/boxscores/202312250MIA.html,,Miami Heat
+2023-12-25,Dallas Mavericks,128,Phoenix Suns,114,/boxscores/202312250PHO.html,,Dallas Mavericks
+2023-12-26,Brooklyn Nets,118,Detroit Pistons,112,/boxscores/202312260DET.html,,Brooklyn Nets
+2023-12-26,Orlando Magic,127,Washington Wizards,119,/boxscores/202312260WAS.html,,Orlando Magic
+2023-12-26,Atlanta Hawks,113,Chicago Bulls,118,/boxscores/202312260CHI.html,,Chicago Bulls
+2023-12-26,Indiana Pacers,123,Houston Rockets,117,/boxscores/202312260HOU.html,,Indiana Pacers
+2023-12-26,Memphis Grizzlies,116,New Orleans Pelicans,115,/boxscores/202312260NOP.html,OT,Memphis Grizzlies
+2023-12-26,Minnesota Timberwolves,106,Oklahoma City Thunder,129,/boxscores/202312260OKC.html,,Oklahoma City Thunder
+2023-12-26,Utah Jazz,130,San Antonio Spurs,118,/boxscores/202312260SAS.html,,Utah Jazz
+2023-12-26,Sacramento Kings,113,Portland Trail Blazers,130,/boxscores/202312260POR.html,,Portland Trail Blazers
+2023-12-26,Charlotte Hornets,104,Los Angeles Clippers,113,/boxscores/202312260LAC.html,,Los Angeles Clippers
+2023-12-27,Philadelphia 76ers,112,Orlando Magic,92,/boxscores/202312270ORL.html,,Philadelphia 76ers
+2023-12-27,Toronto Raptors,132,Washington Wizards,102,/boxscores/202312270WAS.html,,Toronto Raptors
+2023-12-27,Milwaukee Bucks,144,Brooklyn Nets,122,/boxscores/202312270BRK.html,,Milwaukee Bucks
+2023-12-27,Phoenix Suns,129,Houston Rockets,113,/boxscores/202312270HOU.html,,Phoenix Suns
+2023-12-27,New York Knicks,120,Oklahoma City Thunder,129,/boxscores/202312270OKC.html,,Oklahoma City Thunder
+2023-12-27,Cleveland Cavaliers,113,Dallas Mavericks,110,/boxscores/202312270DAL.html,,Cleveland Cavaliers
+2023-12-28,Detroit Pistons,122,Boston Celtics,128,/boxscores/202312280BOS.html,OT,Boston Celtics
+2023-12-28,Indiana Pacers,120,Chicago Bulls,104,/boxscores/202312280CHI.html,,Indiana Pacers
+2023-12-28,Dallas Mavericks,110,Minnesota Timberwolves,118,/boxscores/202312280MIN.html,,Minnesota Timberwolves
+2023-12-28,Utah Jazz,105,New Orleans Pelicans,112,/boxscores/202312280NOP.html,,New Orleans Pelicans
+2023-12-28,Memphis Grizzlies,105,Denver Nuggets,142,/boxscores/202312280DEN.html,,Denver Nuggets
+2023-12-28,Miami Heat,114,Golden State Warriors,102,/boxscores/202312280GSW.html,,Miami Heat
+2023-12-28,San Antonio Spurs,118,Portland Trail Blazers,105,/boxscores/202312280POR.html,,San Antonio Spurs
+2023-12-28,Charlotte Hornets,112,Los Angeles Lakers,133,/boxscores/202312280LAL.html,,Los Angeles Lakers
+2023-12-29,New York Knicks,108,Orlando Magic,117,/boxscores/202312290ORL.html,,Orlando Magic
+2023-12-29,Brooklyn Nets,104,Washington Wizards,110,/boxscores/202312290WAS.html,,Washington Wizards
+2023-12-29,Sacramento Kings,117,Atlanta Hawks,110,/boxscores/202312290ATL.html,,Sacramento Kings
+2023-12-29,Toronto Raptors,118,Boston Celtics,120,/boxscores/202312290BOS.html,,Boston Celtics
+2023-12-29,Milwaukee Bucks,119,Cleveland Cavaliers,111,/boxscores/202312290CLE.html,,Milwaukee Bucks
+2023-12-29,Philadelphia 76ers,131,Houston Rockets,127,/boxscores/202312290HOU.html,,Philadelphia 76ers
+2023-12-29,Oklahoma City Thunder,119,Denver Nuggets,93,/boxscores/202312290DEN.html,,Oklahoma City Thunder
+2023-12-29,Charlotte Hornets,119,Phoenix Suns,133,/boxscores/202312290PHO.html,,Phoenix Suns
+2023-12-29,San Antonio Spurs,128,Portland Trail Blazers,134,/boxscores/202312290POR.html,,Portland Trail Blazers
+2023-12-29,Memphis Grizzlies,106,Los Angeles Clippers,117,/boxscores/202312290LAC.html,,Los Angeles Clippers
+2023-12-30,Miami Heat,109,Utah Jazz,117,/boxscores/202312300UTA.html,,Utah Jazz
+2023-12-30,Toronto Raptors,127,Detroit Pistons,129,/boxscores/202312300DET.html,,Detroit Pistons
+2023-12-30,New York Knicks,126,Indiana Pacers,140,/boxscores/202312300IND.html,,Indiana Pacers
+2023-12-30,Philadelphia 76ers,92,Chicago Bulls,105,/boxscores/202312300CHI.html,,Chicago Bulls
+2023-12-30,Los Angeles Lakers,106,Minnesota Timberwolves,108,/boxscores/202312300MIN.html,,Minnesota Timberwolves
+2023-12-30,Dallas Mavericks,132,Golden State Warriors,122,/boxscores/202312300GSW.html,,Dallas Mavericks
+2023-12-31,Atlanta Hawks,130,Washington Wizards,126,/boxscores/202312310WAS.html,,Atlanta Hawks
+2023-12-31,Los Angeles Lakers,109,New Orleans Pelicans,129,/boxscores/202312310NOP.html,,New Orleans Pelicans
+2023-12-31,Brooklyn Nets,108,Oklahoma City Thunder,124,/boxscores/202312310OKC.html,,Oklahoma City Thunder
+2023-12-31,Boston Celtics,134,San Antonio Spurs,101,/boxscores/202312310SAS.html,,Boston Celtics
+2023-12-31,Sacramento Kings,123,Memphis Grizzlies,92,/boxscores/202312310MEM.html,,Sacramento Kings
+2023-12-31,Orlando Magic,107,Phoenix Suns,112,/boxscores/202312310PHO.html,,Phoenix Suns
+2024-01-01,Minnesota Timberwolves,106,New York Knicks,112,/boxscores/202401010NYK.html,,New York Knicks
+2024-01-01,Cleveland Cavaliers,121,Toronto Raptors,124,/boxscores/202401010TOR.html,,Toronto Raptors
+2024-01-01,Detroit Pistons,113,Houston Rockets,136,/boxscores/202401010HOU.html,,Houston Rockets
+2024-01-01,Indiana Pacers,122,Milwaukee Bucks,113,/boxscores/202401010MIL.html,,Indiana Pacers
+2024-01-01,Charlotte Hornets,93,Denver Nuggets,111,/boxscores/202401010DEN.html,,Denver Nuggets
+2024-01-01,Portland Trail Blazers,88,Phoenix Suns,109,/boxscores/202401010PHO.html,,Phoenix Suns
+2024-01-01,Dallas Mavericks,90,Utah Jazz,127,/boxscores/202401010UTA.html,,Utah Jazz
+2024-01-01,Miami Heat,104,Los Angeles Clippers,121,/boxscores/202401010LAC.html,,Los Angeles Clippers
+2024-01-02,Chicago Bulls,97,Philadelphia 76ers,110,/boxscores/202401020PHI.html,,Philadelphia 76ers
+2024-01-02,San Antonio Spurs,98,Memphis Grizzlies,106,/boxscores/202401020MEM.html,,Memphis Grizzlies
+2024-01-02,Brooklyn Nets,85,New Orleans Pelicans,112,/boxscores/202401020NOP.html,,New Orleans Pelicans
+2024-01-02,Boston Celtics,123,Oklahoma City Thunder,127,/boxscores/202401020OKC.html,,Oklahoma City Thunder
+2024-01-02,Orlando Magic,115,Golden State Warriors,121,/boxscores/202401020GSW.html,,Golden State Warriors
+2024-01-02,Charlotte Hornets,111,Sacramento Kings,104,/boxscores/202401020SAC.html,,Charlotte Hornets
+2024-01-03,Washington Wizards,101,Cleveland Cavaliers,140,/boxscores/202401030CLE.html,,Cleveland Cavaliers
+2024-01-03,Milwaukee Bucks,130,Indiana Pacers,142,/boxscores/202401030IND.html,,Indiana Pacers
+2024-01-03,Oklahoma City Thunder,138,Atlanta Hawks,141,/boxscores/202401030ATL.html,,Atlanta Hawks
+2024-01-03,Brooklyn Nets,101,Houston Rockets,112,/boxscores/202401030HOU.html,,Houston Rockets
+2024-01-03,Toronto Raptors,116,Memphis Grizzlies,111,/boxscores/202401030MEM.html,,Toronto Raptors
+2024-01-03,New Orleans Pelicans,117,Minnesota Timberwolves,106,/boxscores/202401030MIN.html,,New Orleans Pelicans
+2024-01-03,Portland Trail Blazers,97,Dallas Mavericks,126,/boxscores/202401030DAL.html,,Dallas Mavericks
+2024-01-03,Chicago Bulls,100,New York Knicks,116,/boxscores/202401030NYK.html,,New York Knicks
+2024-01-03,Los Angeles Clippers,131,Phoenix Suns,122,/boxscores/202401030PHO.html,,Los Angeles Clippers
+2024-01-03,Detroit Pistons,148,Utah Jazz,154,/boxscores/202401030UTA.html,OT,Utah Jazz
+2024-01-03,Miami Heat,110,Los Angeles Lakers,96,/boxscores/202401030LAL.html,,Miami Heat
+2024-01-03,Orlando Magic,135,Sacramento Kings,138,/boxscores/202401030SAC.html,2OT,Sacramento Kings
+2024-01-04,Milwaukee Bucks,125,San Antonio Spurs,121,/boxscores/202401040SAS.html,,Milwaukee Bucks
+2024-01-04,Denver Nuggets,130,Golden State Warriors,127,/boxscores/202401040GSW.html,,Denver Nuggets
+2024-01-05,Utah Jazz,97,Boston Celtics,126,/boxscores/202401050BOS.html,,Boston Celtics
+2024-01-05,Atlanta Hawks,116,Indiana Pacers,150,/boxscores/202401050IND.html,,Indiana Pacers
+2024-01-05,Oklahoma City Thunder,115,Brooklyn Nets,124,/boxscores/202401050BRK.html,,Brooklyn Nets
+2024-01-05,Washington Wizards,90,Cleveland Cavaliers,114,/boxscores/202401050CLE.html,,Cleveland Cavaliers
+2024-01-05,New York Knicks,128,Philadelphia 76ers,92,/boxscores/202401050PHI.html,,New York Knicks
+2024-01-05,Charlotte Hornets,91,Chicago Bulls,104,/boxscores/202401050CHI.html,,Chicago Bulls
+2024-01-05,Minnesota Timberwolves,122,Houston Rockets,95,/boxscores/202401050HOU.html,,Minnesota Timberwolves
+2024-01-05,Los Angeles Clippers,111,New Orleans Pelicans,95,/boxscores/202401050NOP.html,,Los Angeles Clippers
+2024-01-05,Portland Trail Blazers,103,Dallas Mavericks,139,/boxscores/202401050DAL.html,,Dallas Mavericks
+2024-01-05,Orlando Magic,122,Denver Nuggets,120,/boxscores/202401050DEN.html,,Orlando Magic
+2024-01-05,Miami Heat,97,Phoenix Suns,113,/boxscores/202401050PHO.html,,Phoenix Suns
+2024-01-05,Detroit Pistons,109,Golden State Warriors,113,/boxscores/202401050GSW.html,,Golden State Warriors
+2024-01-05,Memphis Grizzlies,127,Los Angeles Lakers,113,/boxscores/202401050LAL.html,,Memphis Grizzlies
+2024-01-05,Toronto Raptors,130,Sacramento Kings,135,/boxscores/202401050SAC.html,,Sacramento Kings
+2024-01-06,Boston Celtics,118,Indiana Pacers,101,/boxscores/202401060IND.html,,Boston Celtics
+2024-01-06,New York Knicks,121,Washington Wizards,105,/boxscores/202401060WAS.html,,New York Knicks
+2024-01-06,Utah Jazz,120,Philadelphia 76ers,109,/boxscores/202401060PHI.html,,Utah Jazz
+2024-01-06,Milwaukee Bucks,108,Houston Rockets,112,/boxscores/202401060HOU.html,,Houston Rockets
+2024-01-07,San Antonio Spurs,115,Cleveland Cavaliers,117,/boxscores/202401070CLE.html,,Cleveland Cavaliers
+2024-01-07,Portland Trail Blazers,134,Brooklyn Nets,127,/boxscores/202401070BRK.html,OT,Portland Trail Blazers
+2024-01-07,Atlanta Hawks,110,Orlando Magic,117,/boxscores/202401070ORL.html,OT,Orlando Magic
+2024-01-07,New Orleans Pelicans,133,Sacramento Kings,100,/boxscores/202401070SAC.html,,New Orleans Pelicans
+2024-01-07,Minnesota Timberwolves,108,Dallas Mavericks,115,/boxscores/202401070DAL.html,,Dallas Mavericks
+2024-01-07,Detroit Pistons,114,Denver Nuggets,131,/boxscores/202401070DEN.html,,Denver Nuggets
+2024-01-07,Memphis Grizzlies,121,Phoenix Suns,115,/boxscores/202401070PHO.html,,Memphis Grizzlies
+2024-01-07,Toronto Raptors,133,Golden State Warriors,118,/boxscores/202401070GSW.html,,Toronto Raptors
+2024-01-07,Los Angeles Clippers,103,Los Angeles Lakers,106,/boxscores/202401070LAL.html,,Los Angeles Lakers
+2024-01-08,Chicago Bulls,119,Charlotte Hornets,112,/boxscores/202401080CHO.html,OT,Chicago Bulls
+2024-01-08,Boston Celtics,131,Indiana Pacers,133,/boxscores/202401080IND.html,,Indiana Pacers
+2024-01-08,Oklahoma City Thunder,136,Washington Wizards,128,/boxscores/202401080WAS.html,,Oklahoma City Thunder
+2024-01-08,Houston Rockets,113,Miami Heat,120,/boxscores/202401080MIA.html,,Miami Heat
+2024-01-08,Utah Jazz,132,Milwaukee Bucks,116,/boxscores/202401080MIL.html,,Utah Jazz
+2024-01-08,Phoenix Suns,111,Los Angeles Clippers,138,/boxscores/202401080LAC.html,,Los Angeles Clippers
+2024-01-09,Sacramento Kings,131,Detroit Pistons,110,/boxscores/202401090DET.html,,Sacramento Kings
+2024-01-09,Minnesota Timberwolves,113,Orlando Magic,92,/boxscores/202401090ORL.html,,Minnesota Timberwolves
+2024-01-09,Portland Trail Blazers,84,New York Knicks,112,/boxscores/202401090NYK.html,,New York Knicks
+2024-01-09,Memphis Grizzlies,120,Dallas Mavericks,103,/boxscores/202401090DAL.html,,Memphis Grizzlies
+2024-01-09,Toronto Raptors,131,Los Angeles Lakers,132,/boxscores/202401090LAL.html,,Los Angeles Lakers
+2024-01-10,Minnesota Timberwolves,120,Boston Celtics,127,/boxscores/202401100BOS.html,OT,Boston Celtics
+2024-01-10,Sacramento Kings,123,Charlotte Hornets,98,/boxscores/202401100CHO.html,,Sacramento Kings
+2024-01-10,San Antonio Spurs,130,Detroit Pistons,108,/boxscores/202401100DET.html,,San Antonio Spurs
+2024-01-10,Washington Wizards,104,Indiana Pacers,112,/boxscores/202401100IND.html,,Indiana Pacers
+2024-01-10,Philadelphia 76ers,132,Atlanta Hawks,139,/boxscores/202401100ATL.html,OT,Atlanta Hawks
+2024-01-10,Oklahoma City Thunder,128,Miami Heat,120,/boxscores/202401100MIA.html,,Oklahoma City Thunder
+2024-01-10,Houston Rockets,119,Chicago Bulls,124,/boxscores/202401100CHI.html,OT,Chicago Bulls
+2024-01-10,New Orleans Pelicans,141,Golden State Warriors,105,/boxscores/202401100GSW.html,,New Orleans Pelicans
+2024-01-10,Denver Nuggets,111,Utah Jazz,124,/boxscores/202401100UTA.html,,Utah Jazz
+2024-01-10,Toronto Raptors,120,Los Angeles Clippers,126,/boxscores/202401100LAC.html,,Los Angeles Clippers
+2024-01-11,Brooklyn Nets,102,Cleveland Cavaliers,111,/boxscores/202401110CLE.html,,Cleveland Cavaliers
+2024-01-11,Boston Celtics,102,Milwaukee Bucks,135,/boxscores/202401110MIL.html,,Milwaukee Bucks
+2024-01-11,Portland Trail Blazers,77,Oklahoma City Thunder,139,/boxscores/202401110OKC.html,,Oklahoma City Thunder
+2024-01-11,New York Knicks,124,Dallas Mavericks,128,/boxscores/202401110DAL.html,,Dallas Mavericks
+2024-01-11,Phoenix Suns,127,Los Angeles Lakers,109,/boxscores/202401110LAL.html,,Phoenix Suns
+2024-01-12,Indiana Pacers,126,Atlanta Hawks,108,/boxscores/202401120ATL.html,,Indiana Pacers
+2024-01-12,Houston Rockets,112,Detroit Pistons,110,/boxscores/202401120DET.html,,Houston Rockets
+2024-01-12,Sacramento Kings,93,Philadelphia 76ers,112,/boxscores/202401120PHI.html,,Philadelphia 76ers
+2024-01-12,Golden State Warriors,140,Chicago Bulls,131,/boxscores/202401120CHI.html,,Golden State Warriors
+2024-01-12,Los Angeles Clippers,128,Memphis Grizzlies,119,/boxscores/202401120MEM.html,,Los Angeles Clippers
+2024-01-12,Orlando Magic,96,Miami Heat,99,/boxscores/202401120MIA.html,,Miami Heat
+2024-01-12,Portland Trail Blazers,93,Minnesota Timberwolves,116,/boxscores/202401120MIN.html,,Minnesota Timberwolves
+2024-01-12,Charlotte Hornets,99,San Antonio Spurs,135,/boxscores/202401120SAS.html,,San Antonio Spurs
+2024-01-12,Toronto Raptors,113,Utah Jazz,145,/boxscores/202401120UTA.html,,Utah Jazz
+2024-01-12,New Orleans Pelicans,113,Denver Nuggets,125,/boxscores/202401120DEN.html,,Denver Nuggets
+2024-01-13,Houston Rockets,113,Boston Celtics,145,/boxscores/202401130BOS.html,,Boston Celtics
+2024-01-13,Washington Wizards,127,Atlanta Hawks,99,/boxscores/202401130ATL.html,,Washington Wizards
+2024-01-13,New York Knicks,106,Memphis Grizzlies,94,/boxscores/202401130MEM.html,,New York Knicks
+2024-01-13,Golden State Warriors,118,Milwaukee Bucks,129,/boxscores/202401130MIL.html,,Milwaukee Bucks
+2024-01-13,Orlando Magic,100,Oklahoma City Thunder,112,/boxscores/202401130OKC.html,,Oklahoma City Thunder
+2024-01-13,New Orleans Pelicans,118,Dallas Mavericks,108,/boxscores/202401130DAL.html,,New Orleans Pelicans
+2024-01-13,Chicago Bulls,122,San Antonio Spurs,116,/boxscores/202401130SAS.html,,Chicago Bulls
+2024-01-13,Los Angeles Lakers,125,Utah Jazz,132,/boxscores/202401130UTA.html,,Utah Jazz
+2024-01-14,Indiana Pacers,109,Denver Nuggets,117,/boxscores/202401140DEN.html,,Denver Nuggets
+2024-01-14,Charlotte Hornets,87,Miami Heat,104,/boxscores/202401140MIA.html,,Miami Heat
+2024-01-14,Sacramento Kings,142,Milwaukee Bucks,143,/boxscores/202401140MIL.html,OT,Milwaukee Bucks
+2024-01-14,Los Angeles Clippers,105,Minnesota Timberwolves,109,/boxscores/202401140MIN.html,,Minnesota Timberwolves
+2024-01-14,Phoenix Suns,127,Portland Trail Blazers,116,/boxscores/202401140POR.html,,Phoenix Suns
+2024-01-15,Houston Rockets,115,Philadelphia 76ers,124,/boxscores/202401150PHI.html,,Philadelphia 76ers
+2024-01-15,New Orleans Pelicans,120,Dallas Mavericks,125,/boxscores/202401150DAL.html,,Dallas Mavericks
+2024-01-15,Orlando Magic,98,New York Knicks,94,/boxscores/202401150NYK.html,,Orlando Magic
+2024-01-15,Detroit Pistons,129,Washington Wizards,117,/boxscores/202401150WAS.html,,Detroit Pistons
+2024-01-15,San Antonio Spurs,99,Atlanta Hawks,109,/boxscores/202401150ATL.html,,Atlanta Hawks
+2024-01-15,Golden State Warriors,107,Memphis Grizzlies,116,/boxscores/202401150MEM.html,,Memphis Grizzlies
+2024-01-15,Chicago Bulls,91,Cleveland Cavaliers,109,/boxscores/202401150CLE.html,,Cleveland Cavaliers
+2024-01-15,Miami Heat,96,Brooklyn Nets,95,/boxscores/202401150BRK.html,OT,Miami Heat
+2024-01-15,Boston Celtics,105,Toronto Raptors,96,/boxscores/202401150TOR.html,,Boston Celtics
+2024-01-15,Indiana Pacers,105,Utah Jazz,132,/boxscores/202401150UTA.html,,Utah Jazz
+2024-01-15,Oklahoma City Thunder,105,Los Angeles Lakers,112,/boxscores/202401150LAL.html,,Los Angeles Lakers
+2024-01-16,Denver Nuggets,121,Philadelphia 76ers,126,/boxscores/202401160PHI.html,,Philadelphia 76ers
+2024-01-16,Sacramento Kings,117,Phoenix Suns,119,/boxscores/202401160PHO.html,,Phoenix Suns
+2024-01-16,Oklahoma City Thunder,117,Los Angeles Clippers,128,/boxscores/202401160LAC.html,,Los Angeles Clippers
+2024-01-17,Minnesota Timberwolves,124,Detroit Pistons,117,/boxscores/202401170DET.html,,Minnesota Timberwolves
+2024-01-17,Orlando Magic,104,Atlanta Hawks,106,/boxscores/202401170ATL.html,,Atlanta Hawks
+2024-01-17,San Antonio Spurs,98,Boston Celtics,117,/boxscores/202401170BOS.html,,Boston Celtics
+2024-01-17,Milwaukee Bucks,95,Cleveland Cavaliers,135,/boxscores/202401170CLE.html,,Cleveland Cavaliers
+2024-01-17,Houston Rockets,94,New York Knicks,109,/boxscores/202401170NYK.html,,New York Knicks
+2024-01-17,Miami Heat,97,Toronto Raptors,121,/boxscores/202401170TOR.html,,Toronto Raptors
+2024-01-17,Charlotte Hornets,112,New Orleans Pelicans,132,/boxscores/202401170NOP.html,,New Orleans Pelicans
+2024-01-17,Dallas Mavericks,110,Los Angeles Lakers,127,/boxscores/202401170LAL.html,,Los Angeles Lakers
+2024-01-17,Brooklyn Nets,103,Portland Trail Blazers,105,/boxscores/202401170POR.html,,Portland Trail Blazers
+2024-01-18,Washington Wizards,109,New York Knicks,113,/boxscores/202401180NYK.html,,New York Knicks
+2024-01-18,Chicago Bulls,116,Toronto Raptors,110,/boxscores/202401180TOR.html,,Chicago Bulls
+2024-01-18,Oklahoma City Thunder,134,Utah Jazz,129,/boxscores/202401180UTA.html,,Oklahoma City Thunder
+2024-01-18,Memphis Grizzlies,103,Minnesota Timberwolves,118,/boxscores/202401180MIN.html,,Minnesota Timberwolves
+2024-01-18,Indiana Pacers,126,Sacramento Kings,121,/boxscores/202401180SAC.html,,Indiana Pacers
+2024-01-19,San Antonio Spurs,120,Charlotte Hornets,124,/boxscores/202401190CHO.html,,Charlotte Hornets
+2024-01-19,Philadelphia 76ers,124,Orlando Magic,109,/boxscores/202401190ORL.html,,Philadelphia 76ers
+2024-01-19,Denver Nuggets,102,Boston Celtics,100,/boxscores/202401190BOS.html,,Denver Nuggets
+2024-01-19,Atlanta Hawks,109,Miami Heat,108,/boxscores/202401190MIA.html,,Atlanta Hawks
+2024-01-19,Phoenix Suns,123,New Orleans Pelicans,109,/boxscores/202401190NOP.html,,Phoenix Suns
+2024-01-19,Indiana Pacers,115,Portland Trail Blazers,118,/boxscores/202401190POR.html,,Portland Trail Blazers
+2024-01-19,Brooklyn Nets,130,Los Angeles Lakers,112,/boxscores/202401190LAL.html,,Brooklyn Nets
+2024-01-20,Milwaukee Bucks,141,Detroit Pistons,135,/boxscores/202401200DET.html,,Milwaukee Bucks
+2024-01-20,Philadelphia 76ers,97,Charlotte Hornets,89,/boxscores/202401200CHO.html,,Philadelphia 76ers
+2024-01-20,San Antonio Spurs,131,Washington Wizards,127,/boxscores/202401200WAS.html,,San Antonio Spurs
+2024-01-20,Cleveland Cavaliers,116,Atlanta Hawks,95,/boxscores/202401200ATL.html,,Cleveland Cavaliers
+2024-01-20,Toronto Raptors,100,New York Knicks,126,/boxscores/202401200NYK.html,,New York Knicks
+2024-01-20,Memphis Grizzlies,96,Chicago Bulls,125,/boxscores/202401200CHI.html,,Chicago Bulls
+2024-01-20,Utah Jazz,126,Houston Rockets,127,/boxscores/202401200HOU.html,OT,Houston Rockets
+2024-01-20,Oklahoma City Thunder,102,Minnesota Timberwolves,97,/boxscores/202401200MIN.html,,Oklahoma City Thunder
+2024-01-21,Brooklyn Nets,114,Los Angeles Clippers,125,/boxscores/202401210LAC.html,,Los Angeles Clippers
+2024-01-21,Miami Heat,87,Orlando Magic,105,/boxscores/202401210ORL.html,,Orlando Magic
+2024-01-21,Denver Nuggets,113,Washington Wizards,104,/boxscores/202401210WAS.html,,Denver Nuggets
+2024-01-21,Boston Celtics,116,Houston Rockets,107,/boxscores/202401210HOU.html,,Boston Celtics
+2024-01-21,Indiana Pacers,110,Phoenix Suns,117,/boxscores/202401210PHO.html,,Phoenix Suns
+2024-01-21,Portland Trail Blazers,110,Los Angeles Lakers,134,/boxscores/202401210LAL.html,,Los Angeles Lakers
+2024-01-22,Milwaukee Bucks,122,Detroit Pistons,113,/boxscores/202401220DET.html,,Milwaukee Bucks
+2024-01-22,Cleveland Cavaliers,126,Orlando Magic,99,/boxscores/202401220ORL.html,,Cleveland Cavaliers
+2024-01-22,San Antonio Spurs,123,Philadelphia 76ers,133,/boxscores/202401220PHI.html,,Philadelphia 76ers
+2024-01-22,Memphis Grizzlies,108,Toronto Raptors,100,/boxscores/202401220TOR.html,,Memphis Grizzlies
+2024-01-22,Charlotte Hornets,128,Minnesota Timberwolves,125,/boxscores/202401220MIN.html,,Charlotte Hornets
+2024-01-22,Boston Celtics,119,Dallas Mavericks,110,/boxscores/202401220DAL.html,,Boston Celtics
+2024-01-22,Chicago Bulls,113,Phoenix Suns,115,/boxscores/202401220PHO.html,,Phoenix Suns
+2024-01-22,Atlanta Hawks,107,Sacramento Kings,122,/boxscores/202401220SAC.html,,Sacramento Kings
+2024-01-23,Denver Nuggets,114,Indiana Pacers,109,/boxscores/202401230IND.html,,Denver Nuggets
+2024-01-23,New York Knicks,108,Brooklyn Nets,103,/boxscores/202401230BRK.html,,New York Knicks
+2024-01-23,Utah Jazz,124,New Orleans Pelicans,153,/boxscores/202401230NOP.html,,New Orleans Pelicans
+2024-01-23,Portland Trail Blazers,109,Oklahoma City Thunder,111,/boxscores/202401230OKC.html,,Oklahoma City Thunder
+2024-01-23,Los Angeles Lakers,116,Los Angeles Clippers,127,/boxscores/202401230LAC.html,,Los Angeles Clippers
+2024-01-24,Charlotte Hornets,106,Detroit Pistons,113,/boxscores/202401240DET.html,,Detroit Pistons
+2024-01-24,Minnesota Timberwolves,118,Washington Wizards,107,/boxscores/202401240WAS.html,,Minnesota Timberwolves
+2024-01-24,Memphis Grizzlies,105,Miami Heat,96,/boxscores/202401240MIA.html,,Memphis Grizzlies
+2024-01-24,Portland Trail Blazers,137,Houston Rockets,131,/boxscores/202401240HOU.html,OT,Portland Trail Blazers
+2024-01-24,Cleveland Cavaliers,116,Milwaukee Bucks,126,/boxscores/202401240MIL.html,,Milwaukee Bucks
+2024-01-24,Phoenix Suns,132,Dallas Mavericks,109,/boxscores/202401240DAL.html,,Phoenix Suns
+2024-01-24,Oklahoma City Thunder,140,San Antonio Spurs,114,/boxscores/202401240SAS.html,,Oklahoma City Thunder
+2024-01-24,Atlanta Hawks,112,Golden State Warriors,134,/boxscores/202401240GSW.html,,Golden State Warriors
+2024-01-25,Philadelphia 76ers,122,Indiana Pacers,134,/boxscores/202401250IND.html,,Indiana Pacers
+2024-01-25,Utah Jazz,123,Washington Wizards,108,/boxscores/202401250WAS.html,,Utah Jazz
+2024-01-25,Minnesota Timberwolves,96,Brooklyn Nets,94,/boxscores/202401250BRK.html,,Minnesota Timberwolves
+2024-01-25,Boston Celtics,143,Miami Heat,110,/boxscores/202401250MIA.html,,Boston Celtics
+2024-01-25,Denver Nuggets,84,New York Knicks,122,/boxscores/202401250NYK.html,,New York Knicks
+2024-01-25,Sacramento Kings,134,Golden State Warriors,133,/boxscores/202401250GSW.html,,Sacramento Kings
+2024-01-25,Chicago Bulls,132,Los Angeles Lakers,141,/boxscores/202401250LAL.html,,Los Angeles Lakers
+2024-01-26,Dallas Mavericks,148,Atlanta Hawks,143,/boxscores/202401260ATL.html,,Dallas Mavericks
+2024-01-26,Houston Rockets,138,Charlotte Hornets,104,/boxscores/202401260CHO.html,,Houston Rockets
+2024-01-26,Phoenix Suns,131,Indiana Pacers,133,/boxscores/202401260IND.html,,Indiana Pacers
+2024-01-26,Los Angeles Clippers,127,Toronto Raptors,107,/boxscores/202401260TOR.html,,Los Angeles Clippers
+2024-01-26,Orlando Magic,106,Memphis Grizzlies,107,/boxscores/202401260MEM.html,,Memphis Grizzlies
+2024-01-26,Cleveland Cavaliers,112,Milwaukee Bucks,100,/boxscores/202401260MIL.html,,Cleveland Cavaliers
+2024-01-26,Oklahoma City Thunder,107,New Orleans Pelicans,83,/boxscores/202401260NOP.html,,Oklahoma City Thunder
+2024-01-26,Portland Trail Blazers,100,San Antonio Spurs,116,/boxscores/202401260SAS.html,,San Antonio Spurs
+2024-01-27,Washington Wizards,118,Detroit Pistons,104,/boxscores/202401270DET.html,,Washington Wizards
+2024-01-27,Miami Heat,109,New York Knicks,125,/boxscores/202401270NYK.html,,New York Knicks
+2024-01-27,Philadelphia 76ers,105,Denver Nuggets,111,/boxscores/202401270DEN.html,,Denver Nuggets
+2024-01-27,Houston Rockets,104,Brooklyn Nets,106,/boxscores/202401270BRK.html,,Brooklyn Nets
+2024-01-27,Los Angeles Clippers,115,Boston Celtics,96,/boxscores/202401270BOS.html,,Los Angeles Clippers
+2024-01-27,Utah Jazz,134,Charlotte Hornets,122,/boxscores/202401270CHO.html,,Utah Jazz
+2024-01-27,New Orleans Pelicans,117,Milwaukee Bucks,141,/boxscores/202401270MIL.html,,Milwaukee Bucks
+2024-01-27,Los Angeles Lakers,145,Golden State Warriors,144,/boxscores/202401270GSW.html,2OT,Los Angeles Lakers
+2024-01-27,Minnesota Timberwolves,112,San Antonio Spurs,113,/boxscores/202401270SAS.html,,San Antonio Spurs
+2024-01-27,Sacramento Kings,120,Dallas Mavericks,115,/boxscores/202401270DAL.html,,Sacramento Kings
+2024-01-28,Oklahoma City Thunder,104,Detroit Pistons,120,/boxscores/202401280DET.html,,Detroit Pistons
+2024-01-28,Memphis Grizzlies,110,Indiana Pacers,116,/boxscores/202401280IND.html,,Indiana Pacers
+2024-01-28,Toronto Raptors,125,Atlanta Hawks,126,/boxscores/202401280ATL.html,,Atlanta Hawks
+2024-01-28,Phoenix Suns,98,Orlando Magic,113,/boxscores/202401280ORL.html,,Orlando Magic
+2024-01-28,Chicago Bulls,104,Portland Trail Blazers,96,/boxscores/202401280POR.html,,Chicago Bulls
+2024-01-29,New York Knicks,113,Charlotte Hornets,92,/boxscores/202401290CHO.html,,New York Knicks
+2024-01-29,Los Angeles Clippers,108,Cleveland Cavaliers,118,/boxscores/202401290CLE.html,,Cleveland Cavaliers
+2024-01-29,New Orleans Pelicans,112,Boston Celtics,118,/boxscores/202401290BOS.html,,Boston Celtics
+2024-01-29,Utah Jazz,114,Brooklyn Nets,147,/boxscores/202401290BRK.html,,Brooklyn Nets
+2024-01-29,Phoenix Suns,118,Miami Heat,105,/boxscores/202401290MIA.html,,Phoenix Suns
+2024-01-29,Los Angeles Lakers,119,Houston Rockets,135,/boxscores/202401290HOU.html,,Houston Rockets
+2024-01-29,Sacramento Kings,103,Memphis Grizzlies,94,/boxscores/202401290MEM.html,,Sacramento Kings
+2024-01-29,Minnesota Timberwolves,107,Oklahoma City Thunder,101,/boxscores/202401290OKC.html,,Minnesota Timberwolves
+2024-01-29,Washington Wizards,118,San Antonio Spurs,113,/boxscores/202401290SAS.html,,Washington Wizards
+2024-01-29,Orlando Magic,129,Dallas Mavericks,131,/boxscores/202401290DAL.html,,Dallas Mavericks
+2024-01-29,Milwaukee Bucks,107,Denver Nuggets,113,/boxscores/202401290DEN.html,,Denver Nuggets
+2024-01-29,Philadelphia 76ers,104,Portland Trail Blazers,130,/boxscores/202401290POR.html,,Portland Trail Blazers
+2024-01-30,Los Angeles Lakers,122,Atlanta Hawks,138,/boxscores/202401300ATL.html,,Atlanta Hawks
+2024-01-30,Indiana Pacers,124,Boston Celtics,129,/boxscores/202401300BOS.html,,Boston Celtics
+2024-01-30,Utah Jazz,103,New York Knicks,118,/boxscores/202401300NYK.html,,New York Knicks
+2024-01-30,Toronto Raptors,118,Chicago Bulls,107,/boxscores/202401300CHI.html,,Toronto Raptors
+2024-01-30,Philadelphia 76ers,107,Golden State Warriors,119,/boxscores/202401300GSW.html,,Golden State Warriors
+2024-01-31,Chicago Bulls,117,Charlotte Hornets,110,/boxscores/202401310CHO.html,,Chicago Bulls
+2024-01-31,Detroit Pistons,121,Cleveland Cavaliers,128,/boxscores/202401310CLE.html,,Cleveland Cavaliers
+2024-01-31,Los Angeles Clippers,125,Washington Wizards,109,/boxscores/202401310WAS.html,,Los Angeles Clippers
+2024-01-31,Sacramento Kings,106,Miami Heat,115,/boxscores/202401310MIA.html,,Miami Heat
+2024-01-31,New Orleans Pelicans,110,Houston Rockets,99,/boxscores/202401310HOU.html,,New Orleans Pelicans
+2024-01-31,Dallas Mavericks,87,Minnesota Timberwolves,121,/boxscores/202401310MIN.html,,Minnesota Timberwolves
+2024-01-31,Denver Nuggets,100,Oklahoma City Thunder,105,/boxscores/202401310OKC.html,,Oklahoma City Thunder
+2024-01-31,Orlando Magic,108,San Antonio Spurs,98,/boxscores/202401310SAS.html,,Orlando Magic
+2024-01-31,Phoenix Suns,136,Brooklyn Nets,120,/boxscores/202401310BRK.html,,Phoenix Suns
+2024-01-31,Milwaukee Bucks,116,Portland Trail Blazers,119,/boxscores/202401310POR.html,,Portland Trail Blazers
+2024-02-01,Los Angeles Lakers,114,Boston Celtics,105,/boxscores/202402010BOS.html,,Los Angeles Lakers
+2024-02-01,Indiana Pacers,105,New York Knicks,109,/boxscores/202402010NYK.html,,New York Knicks
+2024-02-01,Cleveland Cavaliers,108,Memphis Grizzlies,101,/boxscores/202402010MEM.html,,Cleveland Cavaliers
+2024-02-01,Philadelphia 76ers,127,Utah Jazz,124,/boxscores/202402010UTA.html,,Philadelphia 76ers
+2024-02-02,Los Angeles Clippers,136,Detroit Pistons,125,/boxscores/202402020DET.html,,Los Angeles Clippers
+2024-02-02,Miami Heat,110,Washington Wizards,102,/boxscores/202402020WAS.html,,Miami Heat
+2024-02-02,Phoenix Suns,120,Atlanta Hawks,129,/boxscores/202402020ATL.html,,Atlanta Hawks
+2024-02-02,Sacramento Kings,133,Indiana Pacers,122,/boxscores/202402020IND.html,,Sacramento Kings
+2024-02-02,Toronto Raptors,106,Houston Rockets,135,/boxscores/202402020HOU.html,,Houston Rockets
+2024-02-02,Golden State Warriors,121,Memphis Grizzlies,101,/boxscores/202402020MEM.html,,Golden State Warriors
+2024-02-02,Orlando Magic,108,Minnesota Timberwolves,106,/boxscores/202402020MIN.html,,Orlando Magic
+2024-02-02,Charlotte Hornets,106,Oklahoma City Thunder,126,/boxscores/202402020OKC.html,,Oklahoma City Thunder
+2024-02-02,New Orleans Pelicans,114,San Antonio Spurs,113,/boxscores/202402020SAS.html,,New Orleans Pelicans
+2024-02-02,Portland Trail Blazers,108,Denver Nuggets,120,/boxscores/202402020DEN.html,,Denver Nuggets
+2024-02-03,Brooklyn Nets,136,Philadelphia 76ers,121,/boxscores/202402030PHI.html,,Brooklyn Nets
+2024-02-03,Golden State Warriors,134,Atlanta Hawks,141,/boxscores/202402030ATL.html,OT,Atlanta Hawks
+2024-02-03,Sacramento Kings,123,Chicago Bulls,115,/boxscores/202402030CHI.html,,Sacramento Kings
+2024-02-03,Milwaukee Bucks,129,Dallas Mavericks,117,/boxscores/202402030DAL.html,,Milwaukee Bucks
+2024-02-03,Los Angeles Lakers,113,New York Knicks,105,/boxscores/202402030NYK.html,,Los Angeles Lakers
+2024-02-03,Cleveland Cavaliers,117,San Antonio Spurs,101,/boxscores/202402030SAS.html,,Cleveland Cavaliers
+2024-02-04,Orlando Magic,111,Detroit Pistons,99,/boxscores/202402040DET.html,,Orlando Magic
+2024-02-04,Phoenix Suns,140,Washington Wizards,112,/boxscores/202402040WAS.html,,Phoenix Suns
+2024-02-04,Memphis Grizzlies,91,Boston Celtics,131,/boxscores/202402040BOS.html,,Boston Celtics
+2024-02-04,Indiana Pacers,115,Charlotte Hornets,99,/boxscores/202402040CHO.html,,Indiana Pacers
+2024-02-04,Los Angeles Clippers,103,Miami Heat,95,/boxscores/202402040MIA.html,,Los Angeles Clippers
+2024-02-04,Houston Rockets,90,Minnesota Timberwolves,111,/boxscores/202402040MIN.html,,Minnesota Timberwolves
+2024-02-04,Toronto Raptors,127,Oklahoma City Thunder,135,/boxscores/202402040OKC.html,2OT,Oklahoma City Thunder
+2024-02-04,Milwaukee Bucks,108,Utah Jazz,123,/boxscores/202402040UTA.html,,Utah Jazz
+2024-02-04,Portland Trail Blazers,103,Denver Nuggets,112,/boxscores/202402040DEN.html,,Denver Nuggets
+2024-02-05,Los Angeles Lakers,124,Charlotte Hornets,118,/boxscores/202402050CHO.html,,Los Angeles Lakers
+2024-02-05,Sacramento Kings,110,Cleveland Cavaliers,136,/boxscores/202402050CLE.html,,Cleveland Cavaliers
+2024-02-05,Dallas Mavericks,118,Philadelphia 76ers,102,/boxscores/202402050PHI.html,,Dallas Mavericks
+2024-02-05,Los Angeles Clippers,149,Atlanta Hawks,144,/boxscores/202402050ATL.html,,Los Angeles Clippers
+2024-02-05,Golden State Warriors,109,Brooklyn Nets,98,/boxscores/202402050BRK.html,,Golden State Warriors
+2024-02-05,Toronto Raptors,100,New Orleans Pelicans,138,/boxscores/202402050NOP.html,,New Orleans Pelicans
+2024-02-06,Houston Rockets,129,Indiana Pacers,132,/boxscores/202402060IND.html,,Indiana Pacers
+2024-02-06,Dallas Mavericks,119,Brooklyn Nets,107,/boxscores/202402060BRK.html,,Dallas Mavericks
+2024-02-06,Orlando Magic,95,Miami Heat,121,/boxscores/202402060MIA.html,,Miami Heat
+2024-02-06,Memphis Grizzlies,113,New York Knicks,123,/boxscores/202402060NYK.html,,New York Knicks
+2024-02-06,Minnesota Timberwolves,123,Chicago Bulls,129,/boxscores/202402060CHI.html,OT,Chicago Bulls
+2024-02-06,Oklahoma City Thunder,117,Utah Jazz,124,/boxscores/202402060UTA.html,,Utah Jazz
+2024-02-06,Milwaukee Bucks,106,Phoenix Suns,114,/boxscores/202402060PHO.html,,Phoenix Suns
+2024-02-07,Toronto Raptors,123,Charlotte Hornets,117,/boxscores/202402070CHO.html,,Toronto Raptors
+2024-02-07,Cleveland Cavaliers,114,Washington Wizards,106,/boxscores/202402070WAS.html,,Cleveland Cavaliers
+2024-02-07,Atlanta Hawks,117,Boston Celtics,125,/boxscores/202402070BOS.html,,Boston Celtics
+2024-02-07,San Antonio Spurs,104,Miami Heat,116,/boxscores/202402070MIA.html,,Miami Heat
+2024-02-07,Golden State Warriors,127,Philadelphia 76ers,104,/boxscores/202402070PHI.html,,Golden State Warriors
+2024-02-07,New Orleans Pelicans,117,Los Angeles Clippers,106,/boxscores/202402070LAC.html,,New Orleans Pelicans
+2024-02-07,Detroit Pistons,133,Sacramento Kings,120,/boxscores/202402070SAC.html,,Detroit Pistons
+2024-02-08,Golden State Warriors,131,Indiana Pacers,109,/boxscores/202402080IND.html,,Golden State Warriors
+2024-02-08,San Antonio Spurs,111,Orlando Magic,127,/boxscores/202402080ORL.html,,Orlando Magic
+2024-02-08,Cleveland Cavaliers,118,Brooklyn Nets,95,/boxscores/202402080BRK.html,,Cleveland Cavaliers
+2024-02-08,Dallas Mavericks,122,New York Knicks,108,/boxscores/202402080NYK.html,,Dallas Mavericks
+2024-02-08,Chicago Bulls,118,Memphis Grizzlies,110,/boxscores/202402080MEM.html,,Chicago Bulls
+2024-02-08,Minnesota Timberwolves,129,Milwaukee Bucks,105,/boxscores/202402080MIL.html,,Minnesota Timberwolves
+2024-02-08,Utah Jazz,115,Phoenix Suns,129,/boxscores/202402080PHO.html,,Phoenix Suns
+2024-02-08,Denver Nuggets,114,Los Angeles Lakers,106,/boxscores/202402080LAL.html,,Denver Nuggets
+2024-02-08,Detroit Pistons,128,Portland Trail Blazers,122,/boxscores/202402080POR.html,OT,Detroit Pistons
+2024-02-09,Atlanta Hawks,127,Philadelphia 76ers,121,/boxscores/202402090PHI.html,,Atlanta Hawks
+2024-02-09,Washington Wizards,129,Boston Celtics,133,/boxscores/202402090BOS.html,,Boston Celtics
+2024-02-09,Houston Rockets,104,Toronto Raptors,107,/boxscores/202402090TOR.html,,Toronto Raptors
+2024-02-09,Charlotte Hornets,84,Milwaukee Bucks,120,/boxscores/202402090MIL.html,,Milwaukee Bucks
+2024-02-09,Denver Nuggets,106,Sacramento Kings,135,/boxscores/202402090SAC.html,,Sacramento Kings
+2024-02-09,New Orleans Pelicans,122,Los Angeles Lakers,139,/boxscores/202402090LAL.html,,Los Angeles Lakers
+2024-02-10,Oklahoma City Thunder,111,Dallas Mavericks,146,/boxscores/202402100DAL.html,,Dallas Mavericks
+2024-02-10,Detroit Pistons,106,Los Angeles Clippers,112,/boxscores/202402100LAC.html,,Los Angeles Clippers
+2024-02-10,San Antonio Spurs,103,Brooklyn Nets,123,/boxscores/202402100BRK.html,,Brooklyn Nets
+2024-02-10,Memphis Grizzlies,106,Charlotte Hornets,115,/boxscores/202402100CHO.html,,Charlotte Hornets
+2024-02-10,Chicago Bulls,108,Orlando Magic,114,/boxscores/202402100ORL.html,OT,Orlando Magic
+2024-02-10,Philadelphia 76ers,119,Washington Wizards,113,/boxscores/202402100WAS.html,,Philadelphia 76ers
+2024-02-10,Houston Rockets,113,Atlanta Hawks,122,/boxscores/202402100ATL.html,,Atlanta Hawks
+2024-02-10,Indiana Pacers,125,New York Knicks,111,/boxscores/202402100NYK.html,,Indiana Pacers
+2024-02-10,Cleveland Cavaliers,119,Toronto Raptors,95,/boxscores/202402100TOR.html,,Cleveland Cavaliers
+2024-02-10,Phoenix Suns,112,Golden State Warriors,113,/boxscores/202402100GSW.html,,Golden State Warriors
+2024-02-10,New Orleans Pelicans,93,Portland Trail Blazers,84,/boxscores/202402100POR.html,,New Orleans Pelicans
+2024-02-11,Boston Celtics,110,Miami Heat,106,/boxscores/202402110MIA.html,,Boston Celtics
+2024-02-11,Sacramento Kings,113,Oklahoma City Thunder,127,/boxscores/202402110OKC.html,,Oklahoma City Thunder
+2024-02-12,Indiana Pacers,102,Charlotte Hornets,111,/boxscores/202402120CHO.html,,Charlotte Hornets
+2024-02-12,Philadelphia 76ers,123,Cleveland Cavaliers,121,/boxscores/202402120CLE.html,,Philadelphia 76ers
+2024-02-12,Chicago Bulls,136,Atlanta Hawks,126,/boxscores/202402120ATL.html,,Chicago Bulls
+2024-02-12,San Antonio Spurs,122,Toronto Raptors,99,/boxscores/202402120TOR.html,,San Antonio Spurs
+2024-02-12,New York Knicks,103,Houston Rockets,105,/boxscores/202402120HOU.html,,Houston Rockets
+2024-02-12,New Orleans Pelicans,96,Memphis Grizzlies,87,/boxscores/202402120MEM.html,,New Orleans Pelicans
+2024-02-12,Denver Nuggets,95,Milwaukee Bucks,112,/boxscores/202402120MIL.html,,Milwaukee Bucks
+2024-02-12,Washington Wizards,104,Dallas Mavericks,112,/boxscores/202402120DAL.html,,Dallas Mavericks
+2024-02-12,Golden State Warriors,129,Utah Jazz,107,/boxscores/202402120UTA.html,,Golden State Warriors
+2024-02-12,Minnesota Timberwolves,121,Los Angeles Clippers,100,/boxscores/202402120LAC.html,,Minnesota Timberwolves
+2024-02-13,Boston Celtics,118,Brooklyn Nets,110,/boxscores/202402130BRK.html,,Boston Celtics
+2024-02-13,Oklahoma City Thunder,127,Orlando Magic,113,/boxscores/202402130ORL.html,,Oklahoma City Thunder
+2024-02-13,Miami Heat,123,Milwaukee Bucks,97,/boxscores/202402130MIL.html,,Miami Heat
+2024-02-13,Sacramento Kings,125,Phoenix Suns,130,/boxscores/202402130PHO.html,,Phoenix Suns
+2024-02-13,Minnesota Timberwolves,121,Portland Trail Blazers,109,/boxscores/202402130POR.html,,Minnesota Timberwolves
+2024-02-13,Detroit Pistons,111,Los Angeles Lakers,125,/boxscores/202402130LAL.html,,Los Angeles Lakers
+2024-02-14,Atlanta Hawks,99,Charlotte Hornets,122,/boxscores/202402140CHO.html,,Charlotte Hornets
+2024-02-14,New York Knicks,100,Orlando Magic,118,/boxscores/202402140ORL.html,,Orlando Magic
+2024-02-14,Miami Heat,109,Philadelphia 76ers,104,/boxscores/202402140PHI.html,,Miami Heat
+2024-02-14,Brooklyn Nets,86,Boston Celtics,136,/boxscores/202402140BOS.html,,Boston Celtics
+2024-02-14,Chicago Bulls,105,Cleveland Cavaliers,108,/boxscores/202402140CLE.html,,Cleveland Cavaliers
+2024-02-14,Indiana Pacers,127,Toronto Raptors,125,/boxscores/202402140TOR.html,,Indiana Pacers
+2024-02-14,Houston Rockets,113,Memphis Grizzlies,121,/boxscores/202402140MEM.html,,Memphis Grizzlies
+2024-02-14,Washington Wizards,126,New Orleans Pelicans,133,/boxscores/202402140NOP.html,,New Orleans Pelicans
+2024-02-14,San Antonio Spurs,93,Dallas Mavericks,116,/boxscores/202402140DAL.html,,Dallas Mavericks
+2024-02-14,Sacramento Kings,102,Denver Nuggets,98,/boxscores/202402140DEN.html,,Sacramento Kings
+2024-02-14,Detroit Pistons,100,Phoenix Suns,116,/boxscores/202402140PHO.html,,Phoenix Suns
+2024-02-14,Los Angeles Lakers,138,Utah Jazz,122,/boxscores/202402140UTA.html,,Los Angeles Lakers
+2024-02-14,Los Angeles Clippers,130,Golden State Warriors,125,/boxscores/202402140GSW.html,,Los Angeles Clippers
+2024-02-15,Milwaukee Bucks,110,Memphis Grizzlies,113,/boxscores/202402150MEM.html,,Memphis Grizzlies
+2024-02-15,Golden State Warriors,140,Utah Jazz,137,/boxscores/202402150UTA.html,,Golden State Warriors
+2024-02-15,Minnesota Timberwolves,128,Portland Trail Blazers,91,/boxscores/202402150POR.html,,Minnesota Timberwolves
+2024-02-22,Orlando Magic,116,Cleveland Cavaliers,109,/boxscores/202402220CLE.html,,Orlando Magic
+2024-02-22,Detroit Pistons,115,Indiana Pacers,129,/boxscores/202402220IND.html,,Indiana Pacers
+2024-02-22,New York Knicks,110,Philadelphia 76ers,96,/boxscores/202402220PHI.html,,New York Knicks
+2024-02-22,Brooklyn Nets,93,Toronto Raptors,121,/boxscores/202402220TOR.html,,Toronto Raptors
+2024-02-22,Phoenix Suns,113,Dallas Mavericks,123,/boxscores/202402220DAL.html,,Dallas Mavericks
+2024-02-22,Boston Celtics,129,Chicago Bulls,112,/boxscores/202402220CHI.html,,Boston Celtics
+2024-02-22,Houston Rockets,105,New Orleans Pelicans,127,/boxscores/202402220NOP.html,,New Orleans Pelicans
+2024-02-22,Los Angeles Clippers,107,Oklahoma City Thunder,129,/boxscores/202402220OKC.html,,Oklahoma City Thunder
+2024-02-22,Washington Wizards,110,Denver Nuggets,130,/boxscores/202402220DEN.html,,Denver Nuggets
+2024-02-22,Charlotte Hornets,115,Utah Jazz,107,/boxscores/202402220UTA.html,,Charlotte Hornets
+2024-02-22,Los Angeles Lakers,110,Golden State Warriors,128,/boxscores/202402220GSW.html,,Golden State Warriors
+2024-02-22,San Antonio Spurs,122,Sacramento Kings,127,/boxscores/202402220SAC.html,,Sacramento Kings
+2024-02-23,Toronto Raptors,123,Atlanta Hawks,121,/boxscores/202402230ATL.html,,Toronto Raptors
+2024-02-23,Cleveland Cavaliers,97,Philadelphia 76ers,104,/boxscores/202402230PHI.html,,Philadelphia 76ers
+2024-02-23,Phoenix Suns,110,Houston Rockets,114,/boxscores/202402230HOU.html,,Houston Rockets
+2024-02-23,Los Angeles Clippers,101,Memphis Grizzlies,95,/boxscores/202402230MEM.html,,Los Angeles Clippers
+2024-02-23,Miami Heat,106,New Orleans Pelicans,95,/boxscores/202402230NOP.html,,Miami Heat
+2024-02-23,Washington Wizards,106,Oklahoma City Thunder,147,/boxscores/202402230OKC.html,,Oklahoma City Thunder
+2024-02-23,Charlotte Hornets,84,Golden State Warriors,97,/boxscores/202402230GSW.html,,Golden State Warriors
+2024-02-23,Milwaukee Bucks,112,Minnesota Timberwolves,107,/boxscores/202402230MIN.html,,Milwaukee Bucks
+2024-02-23,Denver Nuggets,127,Portland Trail Blazers,112,/boxscores/202402230POR.html,,Denver Nuggets
+2024-02-23,San Antonio Spurs,118,Los Angeles Lakers,123,/boxscores/202402230LAL.html,,Los Angeles Lakers
+2024-02-24,Orlando Magic,112,Detroit Pistons,109,/boxscores/202402240DET.html,,Orlando Magic
+2024-02-24,Boston Celtics,116,New York Knicks,102,/boxscores/202402240NYK.html,,Boston Celtics
+2024-02-24,Brooklyn Nets,86,Minnesota Timberwolves,101,/boxscores/202402240MIN.html,,Minnesota Timberwolves
+2024-02-25,Milwaukee Bucks,119,Philadelphia 76ers,98,/boxscores/202402250PHI.html,,Milwaukee Bucks
+2024-02-25,Los Angeles Lakers,113,Phoenix Suns,123,/boxscores/202402250PHO.html,,Phoenix Suns
+2024-02-25,Dallas Mavericks,111,Indiana Pacers,133,/boxscores/202402250IND.html,,Indiana Pacers
+2024-02-25,Cleveland Cavaliers,114,Washington Wizards,105,/boxscores/202402250WAS.html,,Cleveland Cavaliers
+2024-02-25,Orlando Magic,92,Atlanta Hawks,109,/boxscores/202402250ATL.html,,Atlanta Hawks
+2024-02-25,Denver Nuggets,119,Golden State Warriors,103,/boxscores/202402250GSW.html,,Denver Nuggets
+2024-02-25,Oklahoma City Thunder,123,Houston Rockets,110,/boxscores/202402250HOU.html,,Oklahoma City Thunder
+2024-02-25,Chicago Bulls,114,New Orleans Pelicans,106,/boxscores/202402250NOP.html,,Chicago Bulls
+2024-02-25,San Antonio Spurs,109,Utah Jazz,128,/boxscores/202402250UTA.html,,Utah Jazz
+2024-02-25,Charlotte Hornets,93,Portland Trail Blazers,80,/boxscores/202402250POR.html,,Charlotte Hornets
+2024-02-25,Sacramento Kings,123,Los Angeles Clippers,107,/boxscores/202402250LAC.html,,Sacramento Kings
+2024-02-26,Toronto Raptors,130,Indiana Pacers,122,/boxscores/202402260IND.html,,Toronto Raptors
+2024-02-26,Detroit Pistons,111,New York Knicks,113,/boxscores/202402260NYK.html,,New York Knicks
+2024-02-26,Brooklyn Nets,111,Memphis Grizzlies,86,/boxscores/202402260MEM.html,,Brooklyn Nets
+2024-02-26,Miami Heat,121,Sacramento Kings,110,/boxscores/202402260SAC.html,,Miami Heat
+2024-02-27,Dallas Mavericks,119,Cleveland Cavaliers,121,/boxscores/202402270CLE.html,,Cleveland Cavaliers
+2024-02-27,Brooklyn Nets,81,Orlando Magic,108,/boxscores/202402270ORL.html,,Orlando Magic
+2024-02-27,Golden State Warriors,123,Washington Wizards,112,/boxscores/202402270WAS.html,,Golden State Warriors
+2024-02-27,Utah Jazz,97,Atlanta Hawks,124,/boxscores/202402270ATL.html,,Atlanta Hawks
+2024-02-27,Philadelphia 76ers,99,Boston Celtics,117,/boxscores/202402270BOS.html,,Boston Celtics
+2024-02-27,New Orleans Pelicans,115,New York Knicks,92,/boxscores/202402270NYK.html,,New Orleans Pelicans
+2024-02-27,Detroit Pistons,105,Chicago Bulls,95,/boxscores/202402270CHI.html,,Detroit Pistons
+2024-02-27,Charlotte Hornets,85,Milwaukee Bucks,123,/boxscores/202402270MIL.html,,Milwaukee Bucks
+2024-02-27,San Antonio Spurs,105,Minnesota Timberwolves,114,/boxscores/202402270MIN.html,,Minnesota Timberwolves
+2024-02-27,Houston Rockets,95,Oklahoma City Thunder,112,/boxscores/202402270OKC.html,,Oklahoma City Thunder
+2024-02-27,Miami Heat,106,Portland Trail Blazers,96,/boxscores/202402270POR.html,,Miami Heat
+2024-02-28,New Orleans Pelicans,114,Indiana Pacers,123,/boxscores/202402280IND.html,,Indiana Pacers
+2024-02-28,Dallas Mavericks,136,Toronto Raptors,125,/boxscores/202402280TOR.html,,Dallas Mavericks
+2024-02-28,Cleveland Cavaliers,123,Chicago Bulls,132,/boxscores/202402280CHI.html,2OT,Chicago Bulls
+2024-02-28,Memphis Grizzlies,101,Minnesota Timberwolves,110,/boxscores/202402280MIN.html,,Minnesota Timberwolves
+2024-02-28,Sacramento Kings,96,Denver Nuggets,117,/boxscores/202402280DEN.html,,Denver Nuggets
+2024-02-28,Los Angeles Lakers,116,Los Angeles Clippers,112,/boxscores/202402280LAC.html,,Los Angeles Lakers
+2024-02-29,Milwaukee Bucks,111,Charlotte Hornets,99,/boxscores/202402290CHO.html,,Milwaukee Bucks
+2024-02-29,Utah Jazz,107,Orlando Magic,115,/boxscores/202402290ORL.html,,Orlando Magic
+2024-02-29,Atlanta Hawks,97,Brooklyn Nets,124,/boxscores/202402290BRK.html,,Brooklyn Nets
+2024-02-29,Golden State Warriors,110,New York Knicks,99,/boxscores/202402290NYK.html,,Golden State Warriors
+2024-02-29,Oklahoma City Thunder,118,San Antonio Spurs,132,/boxscores/202402290SAS.html,,San Antonio Spurs
+2024-02-29,Houston Rockets,105,Phoenix Suns,110,/boxscores/202402290PHO.html,,Phoenix Suns
+2024-02-29,Miami Heat,97,Denver Nuggets,103,/boxscores/202402290DEN.html,,Denver Nuggets
+2024-02-29,Washington Wizards,131,Los Angeles Lakers,134,/boxscores/202402290LAL.html,OT,Los Angeles Lakers
+2024-03-01,Cleveland Cavaliers,110,Detroit Pistons,100,/boxscores/202403010DET.html,,Cleveland Cavaliers
+2024-03-01,Charlotte Hornets,114,Philadelphia 76ers,121,/boxscores/202403010PHI.html,,Philadelphia 76ers
+2024-03-01,Dallas Mavericks,110,Boston Celtics,138,/boxscores/202403010BOS.html,,Boston Celtics
+2024-03-01,Golden State Warriors,120,Toronto Raptors,105,/boxscores/202403010TOR.html,,Golden State Warriors
+2024-03-01,Portland Trail Blazers,122,Memphis Grizzlies,92,/boxscores/202403010MEM.html,,Portland Trail Blazers
+2024-03-01,Sacramento Kings,124,Minnesota Timberwolves,120,/boxscores/202403010MIN.html,OT,Sacramento Kings
+2024-03-01,Indiana Pacers,102,New Orleans Pelicans,129,/boxscores/202403010NOP.html,,New Orleans Pelicans
+2024-03-01,Milwaukee Bucks,113,Chicago Bulls,97,/boxscores/202403010CHI.html,,Milwaukee Bucks
+2024-03-01,Washington Wizards,115,Los Angeles Clippers,140,/boxscores/202403010LAC.html,,Los Angeles Clippers
+2024-03-02,Atlanta Hawks,102,Brooklyn Nets,114,/boxscores/202403020BRK.html,,Brooklyn Nets
+2024-03-02,Utah Jazz,120,Miami Heat,126,/boxscores/202403020MIA.html,,Miami Heat
+2024-03-02,Portland Trail Blazers,107,Memphis Grizzlies,100,/boxscores/202403020MEM.html,OT,Portland Trail Blazers
+2024-03-02,Denver Nuggets,124,Los Angeles Lakers,114,/boxscores/202403020LAL.html,,Denver Nuggets
+2024-03-02,Houston Rockets,118,Phoenix Suns,109,/boxscores/202403020PHO.html,,Houston Rockets
+2024-03-03,Philadelphia 76ers,120,Dallas Mavericks,116,/boxscores/202403030DAL.html,,Philadelphia 76ers
+2024-03-03,Golden State Warriors,88,Boston Celtics,140,/boxscores/202403030BOS.html,,Boston Celtics
+2024-03-03,Los Angeles Clippers,89,Minnesota Timberwolves,88,/boxscores/202403030MIN.html,,Los Angeles Clippers
+2024-03-03,Detroit Pistons,91,Orlando Magic,113,/boxscores/202403030ORL.html,,Orlando Magic
+2024-03-03,Charlotte Hornets,106,Toronto Raptors,111,/boxscores/202403030TOR.html,,Toronto Raptors
+2024-03-03,New York Knicks,107,Cleveland Cavaliers,98,/boxscores/202403030CLE.html,,New York Knicks
+2024-03-03,Indiana Pacers,105,San Antonio Spurs,117,/boxscores/202403030SAS.html,,San Antonio Spurs
+2024-03-03,Oklahoma City Thunder,118,Phoenix Suns,110,/boxscores/202403030PHO.html,,Oklahoma City Thunder
+2024-03-04,Memphis Grizzlies,106,Brooklyn Nets,102,/boxscores/202403040BRK.html,,Memphis Grizzlies
+2024-03-04,Los Angeles Clippers,106,Milwaukee Bucks,113,/boxscores/202403040MIL.html,,Milwaukee Bucks
+2024-03-04,Portland Trail Blazers,114,Minnesota Timberwolves,119,/boxscores/202403040MIN.html,,Minnesota Timberwolves
+2024-03-04,Washington Wizards,115,Utah Jazz,127,/boxscores/202403040UTA.html,,Utah Jazz
+2024-03-04,Chicago Bulls,113,Sacramento Kings,109,/boxscores/202403040SAC.html,,Chicago Bulls
+2024-03-04,Oklahoma City Thunder,104,Los Angeles Lakers,116,/boxscores/202403040LAL.html,,Los Angeles Lakers
+2024-03-05,Orlando Magic,101,Charlotte Hornets,89,/boxscores/202403050CHO.html,,Orlando Magic
+2024-03-05,Philadelphia 76ers,107,Brooklyn Nets,112,/boxscores/202403050BRK.html,,Brooklyn Nets
+2024-03-05,Boston Celtics,104,Cleveland Cavaliers,105,/boxscores/202403050CLE.html,,Cleveland Cavaliers
+2024-03-05,Detroit Pistons,110,Miami Heat,118,/boxscores/202403050MIA.html,,Miami Heat
+2024-03-05,Atlanta Hawks,116,New York Knicks,100,/boxscores/202403050NYK.html,,Atlanta Hawks
+2024-03-05,New Orleans Pelicans,139,Toronto Raptors,98,/boxscores/202403050TOR.html,,New Orleans Pelicans
+2024-03-05,San Antonio Spurs,101,Houston Rockets,114,/boxscores/202403050HOU.html,,Houston Rockets
+2024-03-05,Indiana Pacers,137,Dallas Mavericks,120,/boxscores/202403050DAL.html,,Indiana Pacers
+2024-03-05,Phoenix Suns,117,Denver Nuggets,107,/boxscores/202403050DEN.html,OT,Phoenix Suns
+2024-03-06,Orlando Magic,119,Washington Wizards,109,/boxscores/202403060WAS.html,,Orlando Magic
+2024-03-06,Cleveland Cavaliers,101,Atlanta Hawks,112,/boxscores/202403060ATL.html,,Atlanta Hawks
+2024-03-06,Los Angeles Clippers,122,Houston Rockets,116,/boxscores/202403060HOU.html,,Los Angeles Clippers
+2024-03-06,Memphis Grizzlies,115,Philadelphia 76ers,109,/boxscores/202403060PHI.html,,Memphis Grizzlies
+2024-03-06,Chicago Bulls,119,Utah Jazz,117,/boxscores/202403060UTA.html,,Chicago Bulls
+2024-03-06,Milwaukee Bucks,90,Golden State Warriors,125,/boxscores/202403060GSW.html,,Golden State Warriors
+2024-03-06,Oklahoma City Thunder,128,Portland Trail Blazers,120,/boxscores/202403060POR.html,,Oklahoma City Thunder
+2024-03-06,Sacramento Kings,130,Los Angeles Lakers,120,/boxscores/202403060LAL.html,,Sacramento Kings
+2024-03-07,Brooklyn Nets,112,Detroit Pistons,118,/boxscores/202403070DET.html,,Detroit Pistons
+2024-03-07,Minnesota Timberwolves,113,Indiana Pacers,111,/boxscores/202403070IND.html,,Minnesota Timberwolves
+2024-03-07,Miami Heat,108,Dallas Mavericks,114,/boxscores/202403070DAL.html,,Dallas Mavericks
+2024-03-07,Toronto Raptors,113,Phoenix Suns,120,/boxscores/202403070PHO.html,,Phoenix Suns
+2024-03-07,Boston Celtics,109,Denver Nuggets,115,/boxscores/202403070DEN.html,,Denver Nuggets
+2024-03-07,Chicago Bulls,125,Golden State Warriors,122,/boxscores/202403070GSW.html,,Chicago Bulls
+2024-03-07,San Antonio Spurs,129,Sacramento Kings,131,/boxscores/202403070SAC.html,,Sacramento Kings
+2024-03-08,New Orleans Pelicans,103,Philadelphia 76ers,95,/boxscores/202403080PHI.html,,New Orleans Pelicans
+2024-03-08,Charlotte Hornets,100,Washington Wizards,112,/boxscores/202403080WAS.html,,Washington Wizards
+2024-03-08,Minnesota Timberwolves,104,Cleveland Cavaliers,113,/boxscores/202403080CLE.html,OT,Cleveland Cavaliers
+2024-03-08,Orlando Magic,74,New York Knicks,98,/boxscores/202403080NYK.html,,New York Knicks
+2024-03-08,Atlanta Hawks,99,Memphis Grizzlies,92,/boxscores/202403080MEM.html,,Atlanta Hawks
+2024-03-08,Miami Heat,100,Oklahoma City Thunder,107,/boxscores/202403080OKC.html,,Oklahoma City Thunder
+2024-03-08,Milwaukee Bucks,122,Los Angeles Lakers,123,/boxscores/202403080LAL.html,,Los Angeles Lakers
+2024-03-08,Houston Rockets,123,Portland Trail Blazers,107,/boxscores/202403080POR.html,,Houston Rockets
+2024-03-09,Chicago Bulls,102,Los Angeles Clippers,112,/boxscores/202403090LAC.html,,Los Angeles Clippers
+2024-03-09,Brooklyn Nets,99,Charlotte Hornets,110,/boxscores/202403090CHO.html,,Charlotte Hornets
+2024-03-09,Dallas Mavericks,142,Detroit Pistons,124,/boxscores/202403090DET.html,,Dallas Mavericks
+2024-03-09,San Antonio Spurs,126,Golden State Warriors,113,/boxscores/202403090GSW.html,,San Antonio Spurs
+2024-03-09,Boston Celtics,117,Phoenix Suns,107,/boxscores/202403090PHO.html,,Boston Celtics
+2024-03-09,Utah Jazz,121,Denver Nuggets,142,/boxscores/202403090DEN.html,,Denver Nuggets
+2024-03-09,Toronto Raptors,118,Portland Trail Blazers,128,/boxscores/202403090POR.html,OT,Portland Trail Blazers
+2024-03-10,Milwaukee Bucks,124,Los Angeles Clippers,117,/boxscores/202403100LAC.html,,Milwaukee Bucks
+2024-03-10,New Orleans Pelicans,116,Atlanta Hawks,103,/boxscores/202403100ATL.html,,New Orleans Pelicans
+2024-03-10,Washington Wizards,110,Miami Heat,108,/boxscores/202403100MIA.html,,Washington Wizards
+2024-03-10,Indiana Pacers,111,Orlando Magic,97,/boxscores/202403100ORL.html,,Indiana Pacers
+2024-03-10,Houston Rockets,112,Sacramento Kings,104,/boxscores/202403100SAC.html,,Houston Rockets
+2024-03-10,Brooklyn Nets,120,Cleveland Cavaliers,101,/boxscores/202403100CLE.html,,Brooklyn Nets
+2024-03-10,Philadelphia 76ers,79,New York Knicks,73,/boxscores/202403100NYK.html,,Philadelphia 76ers
+2024-03-10,Memphis Grizzlies,93,Oklahoma City Thunder,124,/boxscores/202403100OKC.html,,Oklahoma City Thunder
+2024-03-10,Minnesota Timberwolves,109,Los Angeles Lakers,120,/boxscores/202403100LAL.html,,Los Angeles Lakers
+2024-03-11,Charlotte Hornets,97,Detroit Pistons,114,/boxscores/202403110DET.html,,Detroit Pistons
+2024-03-11,Phoenix Suns,117,Cleveland Cavaliers,111,/boxscores/202403110CLE.html,,Phoenix Suns
+2024-03-11,Dallas Mavericks,127,Chicago Bulls,92,/boxscores/202403110CHI.html,,Dallas Mavericks
+2024-03-11,Golden State Warriors,112,San Antonio Spurs,102,/boxscores/202403110SAS.html,,Golden State Warriors
+2024-03-11,Toronto Raptors,119,Denver Nuggets,125,/boxscores/202403110DEN.html,,Denver Nuggets
+2024-03-11,Boston Celtics,121,Portland Trail Blazers,99,/boxscores/202403110POR.html,,Boston Celtics
+2024-03-12,Philadelphia 76ers,79,New York Knicks,106,/boxscores/202403120NYK.html,,New York Knicks
+2024-03-12,Washington Wizards,97,Memphis Grizzlies,109,/boxscores/202403120MEM.html,,Memphis Grizzlies
+2024-03-12,Indiana Pacers,121,Oklahoma City Thunder,111,/boxscores/202403120OKC.html,,Indiana Pacers
+2024-03-12,Houston Rockets,103,San Antonio Spurs,101,/boxscores/202403120SAS.html,,Houston Rockets
+2024-03-12,Boston Celtics,123,Utah Jazz,107,/boxscores/202403120UTA.html,,Boston Celtics
+2024-03-12,Minnesota Timberwolves,118,Los Angeles Clippers,100,/boxscores/202403120LAC.html,,Minnesota Timberwolves
+2024-03-12,Milwaukee Bucks,94,Sacramento Kings,129,/boxscores/202403120SAC.html,,Sacramento Kings
+2024-03-13,Toronto Raptors,104,Detroit Pistons,113,/boxscores/202403130DET.html,,Detroit Pistons
+2024-03-13,Brooklyn Nets,106,Orlando Magic,114,/boxscores/202403130ORL.html,,Orlando Magic
+2024-03-13,Chicago Bulls,132,Indiana Pacers,129,/boxscores/202403130IND.html,OT,Chicago Bulls
+2024-03-13,Denver Nuggets,100,Miami Heat,88,/boxscores/202403130MIA.html,,Denver Nuggets
+2024-03-13,Charlotte Hornets,110,Memphis Grizzlies,98,/boxscores/202403130MEM.html,,Charlotte Hornets
+2024-03-13,Cleveland Cavaliers,116,New Orleans Pelicans,95,/boxscores/202403130NOP.html,,Cleveland Cavaliers
+2024-03-13,Golden State Warriors,99,Dallas Mavericks,109,/boxscores/202403130DAL.html,,Dallas Mavericks
+2024-03-13,Atlanta Hawks,102,Portland Trail Blazers,106,/boxscores/202403130POR.html,,Portland Trail Blazers
+2024-03-13,Los Angeles Lakers,107,Sacramento Kings,120,/boxscores/202403130SAC.html,,Sacramento Kings
+2024-03-14,Phoenix Suns,112,Boston Celtics,127,/boxscores/202403140BOS.html,,Boston Celtics
+2024-03-14,Los Angeles Clippers,126,Chicago Bulls,111,/boxscores/202403140CHI.html,,Los Angeles Clippers
+2024-03-14,Washington Wizards,119,Houston Rockets,135,/boxscores/202403140HOU.html,,Houston Rockets
+2024-03-14,Philadelphia 76ers,105,Milwaukee Bucks,114,/boxscores/202403140MIL.html,,Milwaukee Bucks
+2024-03-14,Dallas Mavericks,119,Oklahoma City Thunder,126,/boxscores/202403140OKC.html,,Oklahoma City Thunder
+2024-03-14,New York Knicks,105,Portland Trail Blazers,93,/boxscores/202403140POR.html,,New York Knicks
+2024-03-15,Phoenix Suns,107,Charlotte Hornets,96,/boxscores/202403150CHO.html,,Phoenix Suns
+2024-03-15,Miami Heat,108,Detroit Pistons,95,/boxscores/202403150DET.html,,Miami Heat
+2024-03-15,Orlando Magic,113,Toronto Raptors,103,/boxscores/202403150TOR.html,,Orlando Magic
+2024-03-15,Los Angeles Clippers,104,New Orleans Pelicans,112,/boxscores/202403150NOP.html,,New Orleans Pelicans
+2024-03-15,Denver Nuggets,117,San Antonio Spurs,106,/boxscores/202403150SAS.html,,Denver Nuggets
+2024-03-15,Atlanta Hawks,122,Utah Jazz,124,/boxscores/202403150UTA.html,,Utah Jazz
+2024-03-16,Cleveland Cavaliers,103,Houston Rockets,117,/boxscores/202403160HOU.html,,Houston Rockets
+2024-03-16,Brooklyn Nets,100,Indiana Pacers,121,/boxscores/202403160IND.html,,Indiana Pacers
+2024-03-16,Portland Trail Blazers,107,New Orleans Pelicans,126,/boxscores/202403160NOP.html,,New Orleans Pelicans
+2024-03-16,Charlotte Hornets,98,Philadelphia 76ers,109,/boxscores/202403160PHI.html,,Philadelphia 76ers
+2024-03-16,Washington Wizards,98,Chicago Bulls,127,/boxscores/202403160CHI.html,,Chicago Bulls
+2024-03-16,Oklahoma City Thunder,118,Memphis Grizzlies,112,/boxscores/202403160MEM.html,,Oklahoma City Thunder
+2024-03-16,Golden State Warriors,128,Los Angeles Lakers,121,/boxscores/202403160LAL.html,,Golden State Warriors
+2024-03-16,Minnesota Timberwolves,119,Utah Jazz,100,/boxscores/202403160UTA.html,,Minnesota Timberwolves
+2024-03-16,New York Knicks,98,Sacramento Kings,91,/boxscores/202403160SAC.html,,New York Knicks
+2024-03-17,Phoenix Suns,129,Milwaukee Bucks,140,/boxscores/202403170MIL.html,,Milwaukee Bucks
+2024-03-17,Miami Heat,104,Detroit Pistons,101,/boxscores/202403170DET.html,,Miami Heat
+2024-03-17,Denver Nuggets,105,Dallas Mavericks,107,/boxscores/202403170DAL.html,,Dallas Mavericks
+2024-03-17,Toronto Raptors,96,Orlando Magic,111,/boxscores/202403170ORL.html,,Orlando Magic
+2024-03-17,Boston Celtics,130,Washington Wizards,104,/boxscores/202403170WAS.html,,Boston Celtics
+2024-03-17,Brooklyn Nets,115,San Antonio Spurs,122,/boxscores/202403170SAS.html,OT,San Antonio Spurs
+2024-03-17,Atlanta Hawks,110,Los Angeles Clippers,93,/boxscores/202403170LAC.html,,Atlanta Hawks
+2024-03-18,Cleveland Cavaliers,108,Indiana Pacers,103,/boxscores/202403180IND.html,,Cleveland Cavaliers
+2024-03-18,Detroit Pistons,94,Boston Celtics,119,/boxscores/202403180BOS.html,,Boston Celtics
+2024-03-18,Miami Heat,91,Philadelphia 76ers,98,/boxscores/202403180PHI.html,,Philadelphia 76ers
+2024-03-18,Portland Trail Blazers,107,Chicago Bulls,110,/boxscores/202403180CHI.html,,Chicago Bulls
+2024-03-18,Minnesota Timberwolves,114,Utah Jazz,104,/boxscores/202403180UTA.html,,Minnesota Timberwolves
+2024-03-18,New York Knicks,119,Golden State Warriors,112,/boxscores/202403180GSW.html,,New York Knicks
+2024-03-18,Memphis Grizzlies,111,Sacramento Kings,121,/boxscores/202403180SAC.html,OT,Sacramento Kings
+2024-03-18,Atlanta Hawks,105,Los Angeles Lakers,136,/boxscores/202403180LAL.html,,Los Angeles Lakers
+2024-03-19,Charlotte Hornets,92,Orlando Magic,112,/boxscores/202403190ORL.html,,Orlando Magic
+2024-03-19,Houston Rockets,137,Washington Wizards,114,/boxscores/202403190WAS.html,,Houston Rockets
+2024-03-19,New Orleans Pelicans,104,Brooklyn Nets,91,/boxscores/202403190BRK.html,,New Orleans Pelicans
+2024-03-19,Dallas Mavericks,113,San Antonio Spurs,107,/boxscores/202403190SAS.html,,Dallas Mavericks
+2024-03-19,Denver Nuggets,115,Minnesota Timberwolves,112,/boxscores/202403190MIN.html,,Denver Nuggets
+2024-03-20,Miami Heat,107,Cleveland Cavaliers,104,/boxscores/202403200CLE.html,,Miami Heat
+2024-03-20,Indiana Pacers,122,Detroit Pistons,103,/boxscores/202403200DET.html,,Indiana Pacers
+2024-03-20,Milwaukee Bucks,119,Boston Celtics,122,/boxscores/202403200BOS.html,,Boston Celtics
+2024-03-20,Sacramento Kings,123,Toronto Raptors,89,/boxscores/202403200TOR.html,,Sacramento Kings
+2024-03-20,Utah Jazz,107,Oklahoma City Thunder,119,/boxscores/202403200OKC.html,,Oklahoma City Thunder
+2024-03-20,Memphis Grizzlies,116,Golden State Warriors,137,/boxscores/202403200GSW.html,,Golden State Warriors
+2024-03-20,Philadelphia 76ers,102,Phoenix Suns,115,/boxscores/202403200PHO.html,,Phoenix Suns
+2024-03-20,Los Angeles Clippers,116,Portland Trail Blazers,103,/boxscores/202403200POR.html,,Los Angeles Clippers
+2024-03-21,New Orleans Pelicans,106,Orlando Magic,121,/boxscores/202403210ORL.html,,Orlando Magic
+2024-03-21,Sacramento Kings,102,Washington Wizards,109,/boxscores/202403210WAS.html,,Washington Wizards
+2024-03-21,Chicago Bulls,117,Houston Rockets,127,/boxscores/202403210HOU.html,,Houston Rockets
+2024-03-21,Brooklyn Nets,108,Milwaukee Bucks,115,/boxscores/202403210MIL.html,,Milwaukee Bucks
+2024-03-21,Utah Jazz,97,Dallas Mavericks,113,/boxscores/202403210DAL.html,,Dallas Mavericks
+2024-03-21,New York Knicks,100,Denver Nuggets,113,/boxscores/202403210DEN.html,,Denver Nuggets
+2024-03-21,Atlanta Hawks,115,Phoenix Suns,128,/boxscores/202403210PHO.html,,Phoenix Suns
+2024-03-22,Boston Celtics,129,Detroit Pistons,102,/boxscores/202403220DET.html,,Boston Celtics
+2024-03-22,Oklahoma City Thunder,123,Toronto Raptors,103,/boxscores/202403220TOR.html,,Oklahoma City Thunder
+2024-03-22,New Orleans Pelicans,111,Miami Heat,88,/boxscores/202403220MIA.html,,New Orleans Pelicans
+2024-03-22,Cleveland Cavaliers,91,Minnesota Timberwolves,104,/boxscores/202403220MIN.html,,Minnesota Timberwolves
+2024-03-22,Memphis Grizzlies,99,San Antonio Spurs,97,/boxscores/202403220SAS.html,,Memphis Grizzlies
+2024-03-22,Indiana Pacers,123,Golden State Warriors,111,/boxscores/202403220GSW.html,,Indiana Pacers
+2024-03-22,Los Angeles Clippers,125,Portland Trail Blazers,117,/boxscores/202403220POR.html,,Los Angeles Clippers
+2024-03-22,Philadelphia 76ers,94,Los Angeles Lakers,101,/boxscores/202403220LAL.html,,Los Angeles Lakers
+2024-03-23,Brooklyn Nets,93,New York Knicks,105,/boxscores/202403230NYK.html,,New York Knicks
+2024-03-23,Sacramento Kings,109,Orlando Magic,107,/boxscores/202403230ORL.html,,Sacramento Kings
+2024-03-23,Charlotte Hornets,91,Atlanta Hawks,132,/boxscores/202403230ATL.html,,Atlanta Hawks
+2024-03-23,Boston Celtics,124,Chicago Bulls,113,/boxscores/202403230CHI.html,,Boston Celtics
+2024-03-23,Utah Jazz,119,Houston Rockets,147,/boxscores/202403230HOU.html,,Houston Rockets
+2024-03-23,Phoenix Suns,131,San Antonio Spurs,106,/boxscores/202403230SAS.html,,Phoenix Suns
+2024-03-23,Toronto Raptors,109,Washington Wizards,112,/boxscores/202403230WAS.html,,Washington Wizards
+2024-03-23,Denver Nuggets,114,Portland Trail Blazers,111,/boxscores/202403230POR.html,,Denver Nuggets
+2024-03-24,New Orleans Pelicans,114,Detroit Pistons,101,/boxscores/202403240DET.html,,New Orleans Pelicans
+2024-03-24,Philadelphia 76ers,121,Los Angeles Clippers,107,/boxscores/202403240LAC.html,,Philadelphia 76ers
+2024-03-24,Cleveland Cavaliers,84,Miami Heat,121,/boxscores/202403240MIA.html,,Miami Heat
+2024-03-24,Oklahoma City Thunder,93,Milwaukee Bucks,118,/boxscores/202403240MIL.html,,Milwaukee Bucks
+2024-03-24,Golden State Warriors,110,Minnesota Timberwolves,114,/boxscores/202403240MIN.html,,Minnesota Timberwolves
+2024-03-24,Indiana Pacers,145,Los Angeles Lakers,150,/boxscores/202403240LAL.html,,Los Angeles Lakers
+2024-03-25,Charlotte Hornets,92,Cleveland Cavaliers,115,/boxscores/202403250CLE.html,,Cleveland Cavaliers
+2024-03-25,Boston Celtics,118,Atlanta Hawks,120,/boxscores/202403250ATL.html,,Atlanta Hawks
+2024-03-25,Detroit Pistons,99,New York Knicks,124,/boxscores/202403250NYK.html,,New York Knicks
+2024-03-25,Brooklyn Nets,96,Toronto Raptors,88,/boxscores/202403250TOR.html,,Brooklyn Nets
+2024-03-25,Washington Wizards,107,Chicago Bulls,105,/boxscores/202403250CHI.html,,Washington Wizards
+2024-03-25,Portland Trail Blazers,92,Houston Rockets,110,/boxscores/202403250HOU.html,,Houston Rockets
+2024-03-25,Phoenix Suns,102,San Antonio Spurs,104,/boxscores/202403250SAS.html,,San Antonio Spurs
+2024-03-25,Memphis Grizzlies,103,Denver Nuggets,128,/boxscores/202403250DEN.html,,Denver Nuggets
+2024-03-25,Dallas Mavericks,115,Utah Jazz,105,/boxscores/202403250UTA.html,,Dallas Mavericks
+2024-03-25,Philadelphia 76ers,96,Sacramento Kings,108,/boxscores/202403250SAC.html,,Sacramento Kings
+2024-03-25,Indiana Pacers,133,Los Angeles Clippers,116,/boxscores/202403250LAC.html,,Indiana Pacers
+2024-03-26,Golden State Warriors,113,Miami Heat,92,/boxscores/202403260MIA.html,,Golden State Warriors
+2024-03-26,Los Angeles Lakers,128,Milwaukee Bucks,124,/boxscores/202403260MIL.html,2OT,Los Angeles Lakers
+2024-03-26,Oklahoma City Thunder,119,New Orleans Pelicans,112,/boxscores/202403260NOP.html,,Oklahoma City Thunder
+2024-03-26,Dallas Mavericks,132,Sacramento Kings,96,/boxscores/202403260SAC.html,,Dallas Mavericks
+2024-03-27,Cleveland Cavaliers,111,Charlotte Hornets,118,/boxscores/202403270CHO.html,,Charlotte Hornets
+2024-03-27,Golden State Warriors,101,Orlando Magic,93,/boxscores/202403270ORL.html,,Golden State Warriors
+2024-03-27,Brooklyn Nets,122,Washington Wizards,119,/boxscores/202403270WAS.html,OT,Brooklyn Nets
+2024-03-27,Portland Trail Blazers,106,Atlanta Hawks,120,/boxscores/202403270ATL.html,,Atlanta Hawks
+2024-03-27,Los Angeles Clippers,108,Philadelphia 76ers,107,/boxscores/202403270PHI.html,,Los Angeles Clippers
+2024-03-27,New York Knicks,145,Toronto Raptors,101,/boxscores/202403270TOR.html,,New York Knicks
+2024-03-27,Indiana Pacers,99,Chicago Bulls,125,/boxscores/202403270CHI.html,,Chicago Bulls
+2024-03-27,Los Angeles Lakers,136,Memphis Grizzlies,124,/boxscores/202403270MEM.html,,Los Angeles Lakers
+2024-03-27,Detroit Pistons,91,Minnesota Timberwolves,106,/boxscores/202403270MIN.html,,Minnesota Timberwolves
+2024-03-27,Houston Rockets,132,Oklahoma City Thunder,126,/boxscores/202403270OKC.html,OT,Houston Rockets
+2024-03-27,San Antonio Spurs,118,Utah Jazz,111,/boxscores/202403270UTA.html,,San Antonio Spurs
+2024-03-27,Phoenix Suns,104,Denver Nuggets,97,/boxscores/202403270DEN.html,,Phoenix Suns
+2024-03-28,Boston Celtics,122,Atlanta Hawks,123,/boxscores/202403280ATL.html,OT,Atlanta Hawks
+2024-03-28,Milwaukee Bucks,100,New Orleans Pelicans,107,/boxscores/202403280NOP.html,,New Orleans Pelicans
+2024-03-29,Golden State Warriors,115,Charlotte Hornets,97,/boxscores/202403290CHO.html,,Golden State Warriors
+2024-03-29,Los Angeles Lakers,90,Indiana Pacers,109,/boxscores/202403290IND.html,,Indiana Pacers
+2024-03-29,Los Angeles Clippers,100,Orlando Magic,97,/boxscores/202403290ORL.html,,Los Angeles Clippers
+2024-03-29,Detroit Pistons,96,Washington Wizards,87,/boxscores/202403290WAS.html,,Detroit Pistons
+2024-03-29,Chicago Bulls,108,Brooklyn Nets,125,/boxscores/202403290BRK.html,,Brooklyn Nets
+2024-03-29,Philadelphia 76ers,114,Cleveland Cavaliers,117,/boxscores/202403290CLE.html,,Cleveland Cavaliers
+2024-03-29,Portland Trail Blazers,82,Miami Heat,142,/boxscores/202403290MIA.html,,Miami Heat
+2024-03-29,Phoenix Suns,103,Oklahoma City Thunder,128,/boxscores/202403290OKC.html,,Oklahoma City Thunder
+2024-03-29,New York Knicks,126,San Antonio Spurs,130,/boxscores/202403290SAS.html,OT,San Antonio Spurs
+2024-03-29,Minnesota Timberwolves,111,Denver Nuggets,98,/boxscores/202403290DEN.html,,Minnesota Timberwolves
+2024-03-29,Houston Rockets,101,Utah Jazz,100,/boxscores/202403290UTA.html,,Houston Rockets
+2024-03-29,Dallas Mavericks,107,Sacramento Kings,103,/boxscores/202403290SAC.html,,Dallas Mavericks
+2024-03-30,Boston Celtics,104,New Orleans Pelicans,92,/boxscores/202403300NOP.html,,Boston Celtics
+2024-03-30,Memphis Grizzlies,88,Orlando Magic,118,/boxscores/202403300ORL.html,,Orlando Magic
+2024-03-30,Milwaukee Bucks,122,Atlanta Hawks,113,/boxscores/202403300ATL.html,,Milwaukee Bucks
+2024-03-31,Cleveland Cavaliers,101,Denver Nuggets,130,/boxscores/202403310DEN.html,,Denver Nuggets
+2024-03-31,Los Angeles Lakers,116,Brooklyn Nets,104,/boxscores/202403310BRK.html,,Los Angeles Lakers
+2024-03-31,Los Angeles Clippers,130,Charlotte Hornets,118,/boxscores/202403310CHO.html,,Los Angeles Clippers
+2024-03-31,Philadelphia 76ers,135,Toronto Raptors,120,/boxscores/202403310TOR.html,,Philadelphia 76ers
+2024-03-31,Miami Heat,119,Washington Wizards,107,/boxscores/202403310WAS.html,,Miami Heat
+2024-03-31,Dallas Mavericks,125,Houston Rockets,107,/boxscores/202403310HOU.html,,Dallas Mavericks
+2024-03-31,Chicago Bulls,109,Minnesota Timberwolves,101,/boxscores/202403310MIN.html,,Chicago Bulls
+2024-03-31,Oklahoma City Thunder,113,New York Knicks,112,/boxscores/202403310NYK.html,,Oklahoma City Thunder
+2024-03-31,Golden State Warriors,117,San Antonio Spurs,113,/boxscores/202403310SAS.html,,Golden State Warriors
+2024-03-31,Utah Jazz,106,Sacramento Kings,127,/boxscores/202403310SAC.html,,Sacramento Kings
+2024-04-01,Boston Celtics,118,Charlotte Hornets,104,/boxscores/202404010CHO.html,,Boston Celtics
+2024-04-01,Memphis Grizzlies,110,Detroit Pistons,108,/boxscores/202404010DET.html,,Memphis Grizzlies
+2024-04-01,Brooklyn Nets,111,Indiana Pacers,133,/boxscores/202404010IND.html,,Indiana Pacers
+2024-04-01,Portland Trail Blazers,103,Orlando Magic,104,/boxscores/202404010ORL.html,,Orlando Magic
+2024-04-01,Atlanta Hawks,113,Chicago Bulls,101,/boxscores/202404010CHI.html,,Atlanta Hawks
+2024-04-01,Phoenix Suns,124,New Orleans Pelicans,111,/boxscores/202404010NOP.html,,Phoenix Suns
+2024-04-02,Los Angeles Lakers,128,Toronto Raptors,111,/boxscores/202404020TOR.html,,Los Angeles Lakers
+2024-04-02,Milwaukee Bucks,113,Washington Wizards,117,/boxscores/202404020WAS.html,,Washington Wizards
+2024-04-02,New York Knicks,99,Miami Heat,109,/boxscores/202404020MIA.html,,Miami Heat
+2024-04-02,Oklahoma City Thunder,105,Philadelphia 76ers,109,/boxscores/202404020PHI.html,,Philadelphia 76ers
+2024-04-02,Houston Rockets,106,Minnesota Timberwolves,113,/boxscores/202404020MIN.html,,Minnesota Timberwolves
+2024-04-02,San Antonio Spurs,105,Denver Nuggets,110,/boxscores/202404020DEN.html,,Denver Nuggets
+2024-04-02,Cleveland Cavaliers,129,Utah Jazz,113,/boxscores/202404020UTA.html,,Cleveland Cavaliers
+2024-04-02,Dallas Mavericks,100,Golden State Warriors,104,/boxscores/202404020GSW.html,,Golden State Warriors
+2024-04-02,Los Angeles Clippers,95,Sacramento Kings,109,/boxscores/202404020SAC.html,,Sacramento Kings
+2024-04-03,Portland Trail Blazers,89,Charlotte Hornets,86,/boxscores/202404030CHO.html,,Portland Trail Blazers
+2024-04-03,Los Angeles Lakers,125,Washington Wizards,120,/boxscores/202404030WAS.html,,Los Angeles Lakers
+2024-04-03,Detroit Pistons,113,Atlanta Hawks,121,/boxscores/202404030ATL.html,,Atlanta Hawks
+2024-04-03,Oklahoma City Thunder,100,Boston Celtics,135,/boxscores/202404030BOS.html,,Boston Celtics
+2024-04-03,Indiana Pacers,111,Brooklyn Nets,115,/boxscores/202404030BRK.html,,Brooklyn Nets
+2024-04-03,Memphis Grizzlies,111,Milwaukee Bucks,101,/boxscores/202404030MIL.html,,Memphis Grizzlies
+2024-04-03,Toronto Raptors,85,Minnesota Timberwolves,133,/boxscores/202404030MIN.html,,Minnesota Timberwolves
+2024-04-03,Orlando Magic,117,New Orleans Pelicans,108,/boxscores/202404030NOP.html,,Orlando Magic
+2024-04-03,Cleveland Cavaliers,101,Phoenix Suns,122,/boxscores/202404030PHO.html,,Phoenix Suns
+2024-04-04,Atlanta Hawks,95,Dallas Mavericks,109,/boxscores/202404040DAL.html,,Dallas Mavericks
+2024-04-04,Philadelphia 76ers,109,Miami Heat,105,/boxscores/202404040MIA.html,,Philadelphia 76ers
+2024-04-04,Sacramento Kings,109,New York Knicks,120,/boxscores/202404040NYK.html,,New York Knicks
+2024-04-04,Golden State Warriors,133,Houston Rockets,110,/boxscores/202404040HOU.html,,Golden State Warriors
+2024-04-04,Denver Nuggets,100,Los Angeles Clippers,102,/boxscores/202404040LAC.html,,Los Angeles Clippers
+2024-04-05,Orlando Magic,115,Charlotte Hornets,124,/boxscores/202404050CHO.html,,Charlotte Hornets
+2024-04-05,Oklahoma City Thunder,112,Indiana Pacers,126,/boxscores/202404050IND.html,,Indiana Pacers
+2024-04-05,Portland Trail Blazers,108,Washington Wizards,102,/boxscores/202404050WAS.html,,Portland Trail Blazers
+2024-04-05,Sacramento Kings,100,Boston Celtics,101,/boxscores/202404050BOS.html,,Boston Celtics
+2024-04-05,New York Knicks,100,Chicago Bulls,108,/boxscores/202404050CHI.html,,Chicago Bulls
+2024-04-05,Miami Heat,119,Houston Rockets,104,/boxscores/202404050HOU.html,,Miami Heat
+2024-04-05,Detroit Pistons,90,Memphis Grizzlies,108,/boxscores/202404050MEM.html,,Memphis Grizzlies
+2024-04-05,Toronto Raptors,117,Milwaukee Bucks,111,/boxscores/202404050MIL.html,,Toronto Raptors
+2024-04-05,San Antonio Spurs,111,New Orleans Pelicans,109,/boxscores/202404050NOP.html,,San Antonio Spurs
+2024-04-05,Golden State Warriors,106,Dallas Mavericks,108,/boxscores/202404050DAL.html,,Dallas Mavericks
+2024-04-05,Minnesota Timberwolves,87,Phoenix Suns,97,/boxscores/202404050PHO.html,,Phoenix Suns
+2024-04-05,Utah Jazz,102,Los Angeles Clippers,131,/boxscores/202404050LAC.html,,Los Angeles Clippers
+2024-04-06,Cleveland Cavaliers,97,Los Angeles Lakers,116,/boxscores/202404060LAL.html,,Los Angeles Lakers
+2024-04-06,Detroit Pistons,103,Brooklyn Nets,113,/boxscores/202404060BRK.html,,Brooklyn Nets
+2024-04-06,Philadelphia 76ers,116,Memphis Grizzlies,96,/boxscores/202404060MEM.html,,Philadelphia 76ers
+2024-04-06,Atlanta Hawks,110,Denver Nuggets,142,/boxscores/202404060DEN.html,,Denver Nuggets
+2024-04-07,Houston Rockets,136,Dallas Mavericks,147,/boxscores/202404070DAL.html,OT,Dallas Mavericks
+2024-04-07,Cleveland Cavaliers,118,Los Angeles Clippers,120,/boxscores/202404070LAC.html,,Los Angeles Clippers
+2024-04-07,Miami Heat,115,Indiana Pacers,117,/boxscores/202404070IND.html,,Indiana Pacers
+2024-04-07,Portland Trail Blazers,107,Boston Celtics,124,/boxscores/202404070BOS.html,,Boston Celtics
+2024-04-07,Oklahoma City Thunder,121,Charlotte Hornets,118,/boxscores/202404070CHO.html,,Oklahoma City Thunder
+2024-04-07,Chicago Bulls,98,Orlando Magic,113,/boxscores/202404070ORL.html,,Orlando Magic
+2024-04-07,New Orleans Pelicans,113,Phoenix Suns,105,/boxscores/202404070PHO.html,,New Orleans Pelicans
+2024-04-07,Washington Wizards,122,Toronto Raptors,130,/boxscores/202404070TOR.html,,Toronto Raptors
+2024-04-07,New York Knicks,122,Milwaukee Bucks,109,/boxscores/202404070MIL.html,,New York Knicks
+2024-04-07,Philadelphia 76ers,133,San Antonio Spurs,126,/boxscores/202404070SAS.html,2OT,Philadelphia 76ers
+2024-04-07,Sacramento Kings,107,Brooklyn Nets,77,/boxscores/202404070BRK.html,,Sacramento Kings
+2024-04-07,Utah Jazz,110,Golden State Warriors,118,/boxscores/202404070GSW.html,,Golden State Warriors
+2024-04-07,Minnesota Timberwolves,127,Los Angeles Lakers,117,/boxscores/202404070LAL.html,,Minnesota Timberwolves
+2024-04-09,Dallas Mavericks,130,Charlotte Hornets,104,/boxscores/202404090CHO.html,,Dallas Mavericks
+2024-04-09,Detroit Pistons,102,Philadelphia 76ers,120,/boxscores/202404090PHI.html,,Philadelphia 76ers
+2024-04-09,Indiana Pacers,140,Toronto Raptors,123,/boxscores/202404090TOR.html,,Indiana Pacers
+2024-04-09,Miami Heat,117,Atlanta Hawks,111,/boxscores/202404090ATL.html,2OT,Miami Heat
+2024-04-09,Boston Celtics,91,Milwaukee Bucks,104,/boxscores/202404090MIL.html,,Milwaukee Bucks
+2024-04-09,New York Knicks,128,Chicago Bulls,117,/boxscores/202404090CHI.html,,New York Knicks
+2024-04-09,Orlando Magic,106,Houston Rockets,118,/boxscores/202404090HOU.html,,Houston Rockets
+2024-04-09,San Antonio Spurs,102,Memphis Grizzlies,87,/boxscores/202404090MEM.html,,San Antonio Spurs
+2024-04-09,Washington Wizards,121,Minnesota Timberwolves,130,/boxscores/202404090MIN.html,,Minnesota Timberwolves
+2024-04-09,Sacramento Kings,105,Oklahoma City Thunder,112,/boxscores/202404090OKC.html,,Oklahoma City Thunder
+2024-04-09,Denver Nuggets,111,Utah Jazz,95,/boxscores/202404090UTA.html,,Denver Nuggets
+2024-04-09,Golden State Warriors,134,Los Angeles Lakers,120,/boxscores/202404090LAL.html,,Golden State Warriors
+2024-04-09,Los Angeles Clippers,105,Phoenix Suns,92,/boxscores/202404090PHO.html,,Los Angeles Clippers
+2024-04-09,New Orleans Pelicans,110,Portland Trail Blazers,100,/boxscores/202404090POR.html,,New Orleans Pelicans
+2024-04-10,Memphis Grizzlies,98,Cleveland Cavaliers,110,/boxscores/202404100CLE.html,,Cleveland Cavaliers
+2024-04-10,Charlotte Hornets,115,Atlanta Hawks,114,/boxscores/202404100ATL.html,,Charlotte Hornets
+2024-04-10,Toronto Raptors,102,Brooklyn Nets,106,/boxscores/202404100BRK.html,,Brooklyn Nets
+2024-04-10,Dallas Mavericks,111,Miami Heat,92,/boxscores/202404100MIA.html,,Dallas Mavericks
+2024-04-10,Orlando Magic,99,Milwaukee Bucks,117,/boxscores/202404100MIL.html,,Milwaukee Bucks
+2024-04-10,San Antonio Spurs,89,Oklahoma City Thunder,127,/boxscores/202404100OKC.html,,Oklahoma City Thunder
+2024-04-10,Minnesota Timberwolves,107,Denver Nuggets,116,/boxscores/202404100DEN.html,,Denver Nuggets
+2024-04-10,Phoenix Suns,124,Los Angeles Clippers,108,/boxscores/202404100LAC.html,,Phoenix Suns
+2024-04-11,Chicago Bulls,127,Detroit Pistons,105,/boxscores/202404110DET.html,,Chicago Bulls
+2024-04-11,New York Knicks,118,Boston Celtics,109,/boxscores/202404110BOS.html,,New York Knicks
+2024-04-11,Houston Rockets,121,Utah Jazz,124,/boxscores/202404110UTA.html,,Utah Jazz
+2024-04-11,Golden State Warriors,100,Portland Trail Blazers,92,/boxscores/202404110POR.html,,Golden State Warriors
+2024-04-11,New Orleans Pelicans,135,Sacramento Kings,123,/boxscores/202404110SAC.html,,New Orleans Pelicans
+2024-04-12,Orlando Magic,113,Philadelphia 76ers,125,/boxscores/202404120PHI.html,,Philadelphia 76ers
+2024-04-12,Chicago Bulls,129,Washington Wizards,127,/boxscores/202404120WAS.html,,Chicago Bulls
+2024-04-12,Charlotte Hornets,98,Boston Celtics,131,/boxscores/202404120BOS.html,,Boston Celtics
+2024-04-12,Indiana Pacers,120,Cleveland Cavaliers,129,/boxscores/202404120CLE.html,,Cleveland Cavaliers
+2024-04-12,Brooklyn Nets,107,New York Knicks,111,/boxscores/202404120NYK.html,,New York Knicks
+2024-04-12,Los Angeles Lakers,123,Memphis Grizzlies,120,/boxscores/202404120MEM.html,,Los Angeles Lakers
+2024-04-12,Toronto Raptors,103,Miami Heat,125,/boxscores/202404120MIA.html,,Miami Heat
+2024-04-12,Atlanta Hawks,106,Minnesota Timberwolves,109,/boxscores/202404120MIN.html,,Minnesota Timberwolves
+2024-04-12,Milwaukee Bucks,107,Oklahoma City Thunder,125,/boxscores/202404120OKC.html,,Oklahoma City Thunder
+2024-04-12,Denver Nuggets,120,San Antonio Spurs,121,/boxscores/202404120SAS.html,,San Antonio Spurs
+2024-04-12,Detroit Pistons,107,Dallas Mavericks,89,/boxscores/202404120DAL.html,,Detroit Pistons
+2024-04-12,New Orleans Pelicans,114,Golden State Warriors,109,/boxscores/202404120GSW.html,,New Orleans Pelicans
+2024-04-12,Houston Rockets,116,Portland Trail Blazers,107,/boxscores/202404120POR.html,,Houston Rockets
+2024-04-12,Utah Jazz,110,Los Angeles Clippers,109,/boxscores/202404120LAC.html,,Utah Jazz
+2024-04-12,Phoenix Suns,108,Sacramento Kings,107,/boxscores/202404120SAC.html,,Phoenix Suns
+2024-04-14,Washington Wizards,122,Boston Celtics,132,/boxscores/202404140BOS.html,,Boston Celtics
+2024-04-14,Charlotte Hornets,120,Cleveland Cavaliers,110,/boxscores/202404140CLE.html,,Charlotte Hornets
+2024-04-14,Atlanta Hawks,115,Indiana Pacers,157,/boxscores/202404140IND.html,,Indiana Pacers
+2024-04-14,Toronto Raptors,103,Miami Heat,118,/boxscores/202404140MIA.html,,Miami Heat
+2024-04-14,Chicago Bulls,119,New York Knicks,120,/boxscores/202404140NYK.html,OT,New York Knicks
+2024-04-14,Milwaukee Bucks,88,Orlando Magic,113,/boxscores/202404140ORL.html,,Orlando Magic
+2024-04-14,Brooklyn Nets,86,Philadelphia 76ers,107,/boxscores/202404140PHI.html,,Philadelphia 76ers
+2024-04-14,Utah Jazz,116,Golden State Warriors,123,/boxscores/202404140GSW.html,,Golden State Warriors
+2024-04-14,Houston Rockets,116,Los Angeles Clippers,105,/boxscores/202404140LAC.html,,Houston Rockets
+2024-04-14,Denver Nuggets,126,Memphis Grizzlies,111,/boxscores/202404140MEM.html,,Denver Nuggets
+2024-04-14,Phoenix Suns,125,Minnesota Timberwolves,106,/boxscores/202404140MIN.html,,Phoenix Suns
+2024-04-14,Los Angeles Lakers,124,New Orleans Pelicans,108,/boxscores/202404140NOP.html,,Los Angeles Lakers
+2024-04-14,Dallas Mavericks,86,Oklahoma City Thunder,135,/boxscores/202404140OKC.html,,Oklahoma City Thunder
+2024-04-14,Portland Trail Blazers,82,Sacramento Kings,121,/boxscores/202404140SAC.html,,Sacramento Kings
+2024-04-14,Detroit Pistons,95,San Antonio Spurs,123,/boxscores/202404140SAS.html,,San Antonio Spurs
+2024-04-16,Los Angeles Lakers,110,New Orleans Pelicans,106,/boxscores/202404160NOP.html,,Los Angeles Lakers
+2024-04-16,Golden State Warriors,94,Sacramento Kings,118,/boxscores/202404160SAC.html,,Sacramento Kings
+2024-04-17,Miami Heat,104,Philadelphia 76ers,105,/boxscores/202404170PHI.html,,Philadelphia 76ers
+2024-04-17,Atlanta Hawks,116,Chicago Bulls,131,/boxscores/202404170CHI.html,,Chicago Bulls
+2024-04-19,Chicago Bulls,91,Miami Heat,112,/boxscores/202404190MIA.html,,Miami Heat
+2024-04-19,Sacramento Kings,98,New Orleans Pelicans,105,/boxscores/202404190NOP.html,,New Orleans Pelicans
+2024-04-20,Orlando Magic,83,Cleveland Cavaliers,97,/boxscores/202404200CLE.html,,Cleveland Cavaliers
+2024-04-20,Phoenix Suns,95,Minnesota Timberwolves,120,/boxscores/202404200MIN.html,,Minnesota Timberwolves
+2024-04-20,Philadelphia 76ers,104,New York Knicks,111,/boxscores/202404200NYK.html,,New York Knicks
+2024-04-20,Los Angeles Lakers,103,Denver Nuggets,114,/boxscores/202404200DEN.html,,Denver Nuggets
+2024-04-21,Miami Heat,94,Boston Celtics,114,/boxscores/202404210BOS.html,,Boston Celtics
+2024-04-21,Dallas Mavericks,97,Los Angeles Clippers,109,/boxscores/202404210LAC.html,,Los Angeles Clippers
+2024-04-21,Indiana Pacers,94,Milwaukee Bucks,109,/boxscores/202404210MIL.html,,Milwaukee Bucks
+2024-04-21,New Orleans Pelicans,92,Oklahoma City Thunder,94,/boxscores/202404210OKC.html,,Oklahoma City Thunder
+2024-04-22,Orlando Magic,86,Cleveland Cavaliers,96,/boxscores/202404220CLE.html,,Cleveland Cavaliers
+2024-04-22,Philadelphia 76ers,101,New York Knicks,104,/boxscores/202404220NYK.html,,New York Knicks
+2024-04-22,Los Angeles Lakers,99,Denver Nuggets,101,/boxscores/202404220DEN.html,,Denver Nuggets
+2024-04-23,Phoenix Suns,93,Minnesota Timberwolves,105,/boxscores/202404230MIN.html,,Minnesota Timberwolves
+2024-04-23,Indiana Pacers,125,Milwaukee Bucks,108,/boxscores/202404230MIL.html,,Indiana Pacers
+2024-04-23,Dallas Mavericks,96,Los Angeles Clippers,93,/boxscores/202404230LAC.html,,Dallas Mavericks
+2024-04-24,Miami Heat,111,Boston Celtics,101,/boxscores/202404240BOS.html,,Miami Heat
+2024-04-24,New Orleans Pelicans,92,Oklahoma City Thunder,124,/boxscores/202404240OKC.html,,Oklahoma City Thunder
+2024-04-25,Cleveland Cavaliers,83,Orlando Magic,121,/boxscores/202404250ORL.html,,Orlando Magic
+2024-04-25,New York Knicks,114,Philadelphia 76ers,125,/boxscores/202404250PHI.html,,Philadelphia 76ers
+2024-04-25,Denver Nuggets,112,Los Angeles Lakers,105,/boxscores/202404250LAL.html,,Denver Nuggets
+2024-04-26,Milwaukee Bucks,118,Indiana Pacers,121,/boxscores/202404260IND.html,OT,Indiana Pacers
+2024-04-26,Los Angeles Clippers,90,Dallas Mavericks,101,/boxscores/202404260DAL.html,,Dallas Mavericks
+2024-04-26,Minnesota Timberwolves,126,Phoenix Suns,109,/boxscores/202404260PHO.html,,Minnesota Timberwolves
+2024-04-27,Cleveland Cavaliers,89,Orlando Magic,112,/boxscores/202404270ORL.html,,Orlando Magic
+2024-04-27,Oklahoma City Thunder,106,New Orleans Pelicans,85,/boxscores/202404270NOP.html,,Oklahoma City Thunder
+2024-04-27,Boston Celtics,104,Miami Heat,84,/boxscores/202404270MIA.html,,Boston Celtics
+2024-04-27,Denver Nuggets,108,Los Angeles Lakers,119,/boxscores/202404270LAL.html,,Los Angeles Lakers
+2024-04-28,New York Knicks,97,Philadelphia 76ers,92,/boxscores/202404280PHI.html,,New York Knicks
+2024-04-28,Los Angeles Clippers,116,Dallas Mavericks,111,/boxscores/202404280DAL.html,,Los Angeles Clippers
+2024-04-28,Milwaukee Bucks,113,Indiana Pacers,126,/boxscores/202404280IND.html,,Indiana Pacers
+2024-04-28,Minnesota Timberwolves,122,Phoenix Suns,116,/boxscores/202404280PHO.html,,Minnesota Timberwolves
+2024-04-29,Boston Celtics,102,Miami Heat,88,/boxscores/202404290MIA.html,,Boston Celtics
+2024-04-29,Oklahoma City Thunder,97,New Orleans Pelicans,89,/boxscores/202404290NOP.html,,Oklahoma City Thunder
+2024-04-29,Los Angeles Lakers,106,Denver Nuggets,108,/boxscores/202404290DEN.html,,Denver Nuggets
+2024-04-30,Philadelphia 76ers,112,New York Knicks,106,/boxscores/202404300NYK.html,OT,Philadelphia 76ers
+2024-04-30,Orlando Magic,103,Cleveland Cavaliers,104,/boxscores/202404300CLE.html,,Cleveland Cavaliers
+2024-04-30,Indiana Pacers,92,Milwaukee Bucks,115,/boxscores/202404300MIL.html,,Milwaukee Bucks
