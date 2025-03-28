@@ -13,7 +13,7 @@ Toutes les données utilisées proviennent du site **Basketball-Reference**.
 Projet réalisé par : 
 Amat-Halilou Quentin, 
 Lamalle--Janodet Gaspard, 
-Velasquez Andres Felipe
+Velasquez Andres-Felipe
 
 ## Packages Python requis :  
 - `requests`  
