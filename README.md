@@ -10,10 +10,6 @@ Vous pouvez retrouver les données brutes dans les fichiers csv nba_games_2023_2
 
 Toutes les données utilisées proviennent du site **Basketball-Reference**.  
 
-Projet réalisé par : 
-Amat-Halilou Quentin, 
-Lamalle--Janodet Gaspard, 
-Velasquez Andres-Felipe
 
 ## Packages Python requis :  
 - `requests`  
