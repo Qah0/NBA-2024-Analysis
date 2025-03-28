@@ -9,7 +9,7 @@ HEADERS = {
 def scrape_player_stats(year):
     url = f"https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html"
     
-    # Requête HTTP
+    # Requêtes HTTP
     response = requests.get(url, headers=HEADERS)
     if response.status_code != 200:
         print(f"Erreur: Impossible d'accéder à la page (statut {response.status_code})")
@@ -36,10 +36,10 @@ def scrape_player_stats(year):
         print("Avertissement: Aucune donnée de joueur trouvée")
         return pd.DataFrame()
     
-    # Création du DataFrame
+    
     df = pd.DataFrame(rows, columns=headers)
     
-    # Colonnes numériques à convertir
+    
     numeric_cols = ['Age', 'G', 'GS', 'MP', 'FG', 'FGA', 'FG%', '3P', '3PA', 
                    '3P%', '2P', '2PA', '2P%', 'FT', 'FTA', 'FT%', 'ORB', 
                    'DRB', 'TRB', 'AST', 'STL', 'BLK', 'TOV', 'PF', 'PTS']
@@ -52,14 +52,14 @@ def scrape_player_stats(year):
     return df
 
 if __name__ == "__main__":
-    # Paramètre: année de la saison (2024 pour la saison 2023-2024)
+    # Paramètre: année de la saison (2024 pour la saison 2023-2024, mais modifiable pour l'adapter à une analyse sur d'autres saisons)
     YEAR = 2024
     
     # Scraping des stats joueurs
     player_stats = scrape_player_stats(YEAR)
     
     if not player_stats.empty:
-        # Sauvegarde en CSV
+        # Sauvegarde des données scrap en CSV
         filename = f'nba_player_stats_{YEAR-1}_{YEAR}.csv'
         player_stats.to_csv(filename, index=False)
         print(f"Statistiques des joueurs sauvegardées dans {filename}")
